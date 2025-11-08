@@ -3,7 +3,9 @@ In this repo I'll share the code for my CTFs
 
 ## Solved CTFs with writeup
 
-  [PicoCTF Challenge: 2Warm — A Step-by-Step Guide](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456)
+### PicoCTF
+
+* [PicoCTF Challenge: 2Warm — A Step-by-Step Guide](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456)
   [PicoCTF Challenge: Vault Door Training: Reverse Engineering with Java](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff)
   [PicoCTF Writeup: Warmed Up Challenge](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393)
 
