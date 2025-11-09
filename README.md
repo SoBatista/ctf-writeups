@@ -55,3 +55,5 @@ In this repo I'll share the code for my CTFs
 ### ROP Emporium
 * [ROP Emporium Writeup: split](https://medium.com/@sobatistacyber/rop-emporium-writeup-split-2578e0ad64ab)
 
+### HackTheBox
+* [HackTheBox Meow: from telnet to root access](https://medium.com/@sobatistacyber/hackthebox-meow-from-telnet-to-root-access-0bc025c4e94d)
