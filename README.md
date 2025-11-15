@@ -9,6 +9,7 @@ In this repo I'll share the code for my CTFs
 * ✅ - [where are the robots](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1): Category: Web Exploitation  |  Event: picoCTF 2019 - **[4]**
 * 📌 - asm4: Category: Reverse Engineering  |  Event: picoCTF 2019 - **[5]**
 * ✅ - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[7]**
+* ✅ - [picobrowser](https://medium.com/@sobatistacyber/picoctf-writeups-picobrowser-2f50821aab2d): Category: Web Exploitation  |  Event: picoCTF 2019 - **[9]**
 * 📌 - vault-door-8: Category: Reverse Engineering  |  Event: picoCTF 2019 - **[10]**
 * 📌 - droids0: Category: Reverse Engineering  |  Event: picoCTF 2019 - **[11]**
 * ✅ - [vault-door-1](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-1-381afc732453): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[12]**
@@ -22,6 +23,7 @@ In this repo I'll share the code for my CTFs
 * 📌 - droids3  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **[23]**
 * ✅ - [shark on wire 1](https://medium.com/@sobatistacyber/picoctf-writeups-shark-on-wire-1-f7c0576dd312): Category: Forensics  |  Event: picoCTF 2019 - **[30]**
 * ✅ - [what's a net cat?](https://medium.com/@sobatistacyber/cracking-picoctfs-what-s-a-net-cat-challenge-1d7f39b3f445): Category: General Skills  |  Event: picoCTF 2019 - **[34]**
+* ✅ - [Based](https://medium.com/@sobatistacyber/picoctf-writeups-based-e4d62df7f529): Category: General Skills  |  Event: picoCTF 2019 - **[35]**
 * ✅ - [strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72): Category: General Skills  |  Event: picoCTF 2019 - **[37]**
 * ✅ - [Mr-Worldwide](https://medium.com/@sobatistacyber/picoctf-writeups-mr-worldwide-8b70c8e5ad58): Category: Cryptography  |  Event: picoCTF 2019 - **[40]**
 * ✅ - [Easy1](https://medium.com/@sobatistacyber/picoctf-writeup-easy1-challenge-67b9eac0fb90): Category: Cryptography  |  Event: picoCTF 2019 - **[43]**
@@ -30,6 +32,7 @@ In this repo I'll share the code for my CTFs
 * ✅ - [plumbing](https://medium.com/@sobatistacyber/picoctf-writeups-plumbing-776a8ad6dca5): Category: General Skills  |  Event: picoCTF 2019 - **[48]**
 * ✅ - [extensions](https://medium.com/@sobatistacyber/picoctf-writeups-extensions-6f91fef27fe5): Category: Forensics  |  Event: picoCTF 2019 - **[52]**
 * ✅ - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019 - **[58]**
+* ✅ - [vault-door-3](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-3-86f9d578f87e): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[60]**
 * ✅ - [13](https://medium.com/@sobatistacyber/picoctf-writeups-13-607203851771): Category: Cryptography  |  Event: picoCTF 2019 - **[62]**
 * ✅ - [caesar](https://medium.com/@sobatistacyber/picoctf-writeups-caesar-63fc4fe2cc16): Category: Cryptography  |  Event: picoCTF 2019 - **[64]**
 * ✅ - [dont-use-client-side](https://medium.com/@sobatistacyber/picoctf-writeups-dont-use-client-side-1cda7ae1cc87): Category: Web Exploitation  |  Event: picoCTF 2019 - **[66]**
@@ -40,11 +43,8 @@ In this repo I'll share the code for my CTFs
 * ✅ - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 - **[86]**
 * ✅ - [Pitter, Patter, Platters](https://medium.com/@sobatistacyber/picoctf-writeups-pitter-patter-platters-83283dded072): Category: Forensics  |  Event: picoCTF 2020 Mini-Competition - **[87]**
 * ✅ - [First Grep](https://medium.com/@sobatistacyber/picoctf-writeups-first-grep-0b5ca8d8fe09): Category: General Skills  |  Event: picoCTF 2019 - **[85]**
-* ✅ - [Based](https://medium.com/@sobatistacyber/picoctf-writeups-based-e4d62df7f529): Category: General Skills  |  Event: picoCTF 2019 - **[35]**
-* ✅ - [vault-door-3](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-3-86f9d578f87e): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[60]**
-* ✅ - [picobrowser](https://medium.com/@sobatistacyber/picoctf-writeups-picobrowser-2f50821aab2d): Category: Web Exploitation  |  Event: picoCTF 2019 - **[9]**
-* [PicoCTF Writeup: rsa-pop-quiz](https://medium.com/@sobatistacyber/picoctf-writeup-rsa-pop-quiz-b13fbf4c6d2c)
-* [PicoCTF Writeup: la cifra de](https://medium.com/@sobatistacyber/picoctf-writeup-la-cifra-de-e5b2822bd593)
+* ✅ - [rsa-pop-quiz](https://medium.com/@sobatistacyber/picoctf-writeup-rsa-pop-quiz-b13fbf4c6d2c): Category: Cryptography  |  Event: picoCTF 2019 - **[61]**
+* ✅ - [la cifra de](https://medium.com/@sobatistacyber/picoctf-writeup-la-cifra-de-e5b2822bd593): Category: Cryptography  |  Event: picoCTF 2019 - **[3]**
 * [PicoCTF Writeup: Web Gauntlet](https://medium.com/@sobatistacyber/picoctf-writeup-web-gauntlet-7c3b8c7c7946)
 * [PicoCTF Writeup: c0rrupt](https://medium.com/@sobatistacyber/picoctf-writeup-c0rrupt-cc24de6f61e9)
 * [PicoCTF Writeup: m00nwalk](https://medium.com/@sobatistacyber/picoctf-writeup-m00nwalk-15a64699ac21)
@@ -347,7 +347,6 @@ In this repo I'll share the code for my CTFs
 [36] investigation_encoded_2  |  Category: Forensics  |  Event: picoCTF 2019
 [6] john_pollard  |  Category: Cryptography  |  Event: picoCTF 2019
 [121] keygenme-py  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[3] la cifra de  |  Category: Cryptography  |  Event: picoCTF 2019
 [81] like1000  |  Category: Forensics  |  Event: picoCTF 2019
 [200] login  |  Category: Web Exploitation  |  Event: picoMini by redpwn
 [26] m00nwalk  |  Category: Forensics  |  Event: picoCTF 2019
@@ -361,7 +360,6 @@ In this repo I'll share the code for my CTFs
 [289] rail-fence  |  Category: Cryptography  |  Event: picoCTF 2022
 [79] reverse_cipher  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 [373] rotation  |  Category: Cryptography  |  Event: picoCTF 2023
-[61] rsa-pop-quiz  |  Category: Cryptography  |  Event: picoCTF 2019
 [422] rsa_oracle  |  Category: Cryptography  |  Event: picoCTF 2024
 [50] seed-sPRiNG  |  Category: Binary Exploitation  |  Event: picoCTF 2019
 [84] shark on wire 2  |  Category: Forensics  |  Event: picoCTF 2019
