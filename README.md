@@ -5,8 +5,8 @@ In this repo I'll share the code for my CTFs
 
 ### PicoCTF
 
-* ✅ [4] - [where are the robots](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1): Category: Web Exploitation  |  Event: picoCTF 2019
-* ✅ [7] - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019
+* ✅ - [where are the robots](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1): Category: Web Exploitation  |  Event: picoCTF 2019 - **[4]**
+* ✅ - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[7]**
 * 📌 [10] - vault-door-8  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 * 📌 [11] - droids0  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 * ✅ [12] - [vault-door-1](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-1-381afc732453): Category: Reverse Engineering  |  Event: picoCTF 2019
