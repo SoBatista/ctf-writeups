@@ -7,12 +7,12 @@ In this repo I'll share the code for my CTFs
 
 * ✅ - [where are the robots](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1): Category: Web Exploitation  |  Event: picoCTF 2019 - **[4]**
 * ✅ - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[7]**
-* 📌 - vault-door-8  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **[10]**
-* 📌 - droids0  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **[11]**
-* ✅ [12] - [vault-door-1](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-1-381afc732453): Category: Reverse Engineering  |  Event: picoCTF 2019
-* 📌 [14] - droids1  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-* 📌 [17] - droids4  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-* ✅ [18] - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019
+* 📌 - vault-door-8:  Category: Reverse Engineering  |  Event: picoCTF 2019 - **[10]**
+* 📌 - droids0:  Category: Reverse Engineering  |  Event: picoCTF 2019 - **[11]**
+* ✅ - [vault-door-1](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-1-381afc732453): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[12]**
+* 📌 - droids1:  Category: Reverse Engineering  |  Event: picoCTF 2019 - **[14]**
+* 📌 - droids4:  Category: Reverse Engineering  |  Event: picoCTF 2019 - **[17]**
+* ✅ - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019 - **[18]**
 * ✅ [22] - [Lets Warm Up](https://medium.com/@sobatistacyber/picoctf-writeup-lets-warm-up-ef799cbd2541): Category: General Skills  |  Event: picoCTF 2019
 * 📌 [23] - droids3  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 * ✅ [30] - [shark on wire 1](https://medium.com/@sobatistacyber/picoctf-writeups-shark-on-wire-1-f7c0576dd312): Category: Forensics  |  Event: picoCTF 2019
