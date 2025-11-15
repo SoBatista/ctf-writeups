@@ -19,7 +19,7 @@ In this repo I'll share the code for my CTFs
 - [x] [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019 ✅
 - [x] [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 ✅
-- [x] [PicoCTF Writeups: Bases](https://medium.com/@sobatistacyber/picoctf-writeups-bases-0bd7be0d42e9)
+- [x] [67] - [Bases](https://medium.com/@sobatistacyber/picoctf-writeups-bases-0bd7be0d42e9): Category: General Skills  |  Event: picoCTF 2019 ✅
 - [x] [PicoCTF Writeups: Caesar](https://medium.com/@sobatistacyber/picoctf-writeups-caesar-63fc4fe2cc16)
 - [x] [PicoCTF Writeups: vault-door-1](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-1-381afc732453)
 * [PicoCTF Writeups: What Lies Within](https://medium.com/@sobatistacyber/picoctf-writeups-what-lies-within-317ae7bc5aa6)
@@ -137,7 +137,6 @@ In this repo I'll share the code for my CTFs
 * [56] B1g_Mac  |  Category: Forensics  |  Event: picoCTF 2019
 * [57] B1ll_Gat35  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 * [35] Based  |  Category: General Skills  |  Event: picoCTF 2019
-* [67] Bases  |  Category: General Skills  |  Event: picoCTF 2019
 * [255] Bbbbloat  |  Category: Reverse Engineering  |  Event: picoCTF 2022
 * [451] Binary Instrumentation 1  |  Category: Reverse Engineering  |  Event: picoCTF 2025
 * [452] Binary Instrumentation 2  |  Category: Reverse Engineering  |  Event: picoCTF 2025
