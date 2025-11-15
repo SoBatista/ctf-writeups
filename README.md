@@ -21,8 +21,8 @@ In this repo I'll share the code for my CTFs
 - [x] [64] - [caesar](https://medium.com/@sobatistacyber/picoctf-writeups-caesar-63fc4fe2cc16): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [67] - [Bases](https://medium.com/@sobatistacyber/picoctf-writeups-bases-0bd7be0d42e9): Category: General Skills  |  Event: picoCTF 2019 ✅
 - [x] [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019 ✅
+- [x] [74] - [What Lies Within](https://medium.com/@sobatistacyber/picoctf-writeups-what-lies-within-317ae7bc5aa6): Category: Forensics  |  Event: picoCTF 2019 ✅
 - [x] [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 ✅
-* [PicoCTF Writeups: What Lies Within](https://medium.com/@sobatistacyber/picoctf-writeups-what-lies-within-317ae7bc5aa6)
 * [PicoCTF Writeups: Shark on Wire 1](https://medium.com/@sobatistacyber/picoctf-writeups-shark-on-wire-1-f7c0576dd312)
 * [PicoCTF Writeups: extensions](https://medium.com/@sobatistacyber/picoctf-writeups-extensions-6f91fef27fe5)
 * [PicoCTF Writeups: So Meta](https://medium.com/@sobatistacyber/picoctf-writeups-so-meta-207084a93f9d)
@@ -279,7 +279,6 @@ In this repo I'll share the code for my CTFs
 [32] WebNet0  |  Category: Forensics  |  Event: picoCTF 2019
 [42] WebNet1  |  Category: Forensics  |  Event: picoCTF 2019
 [480] WebSockFish  |  Category: Web Exploitation  |  Event: picoCTF 2025
-[74] What Lies Within  |  Category: Forensics  |  Event: picoCTF 2019
 [51] WhitePages  |  Category: Forensics  |  Event: picoCTF 2019
 [142] Who are you?  |  Category: Web Exploitation  |  Event: picoCTF 2021
 [429] WinAntiDbg0x100  |  Category: Reverse Engineering  |  Event: picoCTF 2024
