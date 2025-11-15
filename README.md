@@ -5,15 +5,15 @@ In this repo I'll share the code for my CTFs
 
 ### PicoCTF
 
-* [7] - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019 [ x ]
-* [10] - vault-door-8  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **TO DO**
-* [11] - droids0  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **TO DO**
-* [18] - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019
-* [44] - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019
-* [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019
-* [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019
-* [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019
-* [PicoCTF Writeup: Let’s Warm Up](https://medium.com/@sobatistacyber/picoctf-writeup-lets-warm-up-ef799cbd2541)
+- [ ] [7] - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019 ✅
+- [ ] [10] - vault-door-8  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **TO DO**
+- [ ] [11] - droids0  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **TO DO**
+- [ ] [18] - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019
+- [ ] [44] - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019
+- [ ] [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019
+- [ ] [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019
+- [ ] [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019
+- [ ] [PicoCTF Writeup: Let’s Warm Up](https://medium.com/@sobatistacyber/picoctf-writeup-lets-warm-up-ef799cbd2541)
 * [PicoCTF Writeup: Easy1 Challenge](https://medium.com/@sobatistacyber/picoctf-writeup-easy1-challenge-67b9eac0fb90)
 * [PicoCTF Writeups: strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72)
 * [Cracking PicoCTF’s “Where are the Robots?”](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1)
