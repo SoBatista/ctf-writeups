@@ -5,8 +5,8 @@ In this repo I'll share the code for my CTFs
 
 ### PicoCTF
 
-* [86]-[2warm  |  Category: General Skills  |  Event: picoCTF 2019](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456)
-* [7]-[vault-door-training  |  Category: Reverse Engineering  |  Event: picoCTF 2019](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff)
+* [86] - [2warm  |  Category: General Skills  |  Event: picoCTF 2019](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456)
+* [7] - [vault-door-training  |  Category: Reverse Engineering  |  Event: picoCTF 2019](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff)
 * [PicoCTF Writeup: Warmed Up Challenge](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393)
 * [PicoCTF Writeup: Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a)
 * [PicoCTF Writeup: The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19)
