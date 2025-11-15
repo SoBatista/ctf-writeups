@@ -6,9 +6,9 @@ In this repo I'll share the code for my CTFs
 ### PicoCTF
 
 * [7] - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019
+* [18] - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019
 * [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019
 * [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019
-* [PicoCTF Writeup: Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a)
 * [PicoCTF Writeup: The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19)
 * [PicoCTF Writeup: Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba)
 * [PicoCTF Writeup: Let’s Warm Up](https://medium.com/@sobatistacyber/picoctf-writeup-lets-warm-up-ef799cbd2541)
@@ -77,7 +77,6 @@ In this repo I'll share the code for my CTFs
 * [243] HashingJobApp  |  Category: General Skills  |  Event: Beginner picoMini 2022
 * [524] Hidden in plainsight  |  Category: Forensics  |  Event: picoMini by CMU-Africa
 * [274] Includes  |  Category: Web Exploitation  |  Event: picoCTF 2022
-* [18] Insp3ct0r  |  Category: Web Exploitation  |  Event: picoCTF 2019
 * [275] Inspect HTML  |  Category: Web Exploitation  |  Event: picoCTF 2022
 * [419] IntroToBurp  |  Category: Web Exploitation  |  Event: picoCTF 2024
 * [22] Lets Warm Up  |  Category: General Skills  |  Event: picoCTF 2019
