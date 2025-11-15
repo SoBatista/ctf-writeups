@@ -6,7 +6,7 @@ In this repo I'll share the code for my CTFs
 ### PicoCTF
 
 * [7] - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019
-* [10] vault-door-8  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **TO DO**
+* [10] - vault-door-8  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **TO DO**
 * [18] - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019
 * [44] - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019
 * [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019
