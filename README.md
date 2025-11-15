@@ -7,7 +7,7 @@ In this repo I'll share the code for my CTFs
 
 * [86] - [2warm  |  Category: General Skills  |  Event: picoCTF 2019](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456)
 * [7] - [vault-door-training  |  Category: Reverse Engineering  |  Event: picoCTF 2019](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff)
-* [PicoCTF Writeup: Warmed Up Challenge](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393)
+* [58] - [Warmed Up  |  Category: General Skills  |  Event: picoCTF 2019](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393)
 * [PicoCTF Writeup: Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a)
 * [PicoCTF Writeup: The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19)
 * [PicoCTF Writeup: Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba)
@@ -278,7 +278,6 @@ In this repo I'll share the code for my CTFs
 [316] Vigenere  |  Category: Cryptography  |  Event: picoCTF 2022
 [385] Virtual Machine 0  |  Category: Reverse Engineering  |  Event: picoCTF 2023
 [237] WPA-ing Out  |  Category: Forensics  |  Event: No Event
-[58] Warmed Up  |  Category: General Skills  |  Event: picoCTF 2019
 [88] Web Gauntlet  |  Category: Web Exploitation  |  Event: picoCTF 2020 Mini-Competition
 [174] Web Gauntlet 2  |  Category: Web Exploitation  |  Event: picoCTF 2021
 [128] Web Gauntlet 3  |  Category: Web Exploitation  |  Event: picoCTF 2021
