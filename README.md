@@ -57,8 +57,10 @@ In this repo I'll share the code for my CTFs
 * 📌 - gogo: Category: Reverse Engineering  |  Event: picoCTF 2021 - **[171]**
 * 📌 - notepad: Category: Web Exploitation  |  Event: picoMini by redpwn - **[204]**
 * 📌 - scrambled-bytes: Category: Forensics  |  Event: picoMini by redpwn - **[206]**
+* 📌 - triple-secure: Category: Cryptography  |  Event: picoMini by redpwn - **[209]**
 * 📌 - lockdown-horses: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[214]**
 * 📌 - homework: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[217]**
+* 📌 - vr-school: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[218]**
 * 📌 - riscy business: Category: Reverse Engineering  |  Event: picoMini by redpwn - **[219]**
 * 📌 - not crypto: Category: Reverse Engineering  |  Event: picoMini by redpwn - **[222]**
 * ✅ - [Codebook](https://medium.com/@sobatistacyber/picoctf-writeup-codebook-f17732d7a2dc): Category: General Skills  |  Event: Beginner picoMini 2022 - **[238]**
@@ -66,64 +68,60 @@ In this repo I'll share the code for my CTFs
 * ✅ - [fixme2.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme2-py-1e16c4075290): Category: General Skills  |  Event: Beginner picoMini 2022 - **[241]**
 * 📌 - noted: Category: Web Exploitation  |  Event: picoCTF 2022 - **[282]**
 * 📌 - ropfu: Category: Binary Exploitation  |  Event: picoCTF 2022 - **[292]**
+* 📌 - solfire: Category: Binary Exploitation  |  Event: picoCTF 2022 - **[302]**
+* 📌 - stack cache: Category: Binary Exploitation  |  Event: picoCTF 2022 - **[306]**
+* 📌 - wine: Category: Binary Exploitation  |  Event: picoCTF 2022 - **[317]**
 * 📌 - msfroggenerator2: Category: Web Exploitation  |  Event: picoCTF 2023 - **[360]**
+* 📌 - tic-tac: Category: Binary Exploitation  |  Event: picoCTF 2023 - **[380]**
 * 📌 - high frequency troubles: Category: Binary Exploitation  |  Event: picoCTF 2024 - **[441]**
 * 📌 - handoff: Category: Binary Exploitation  |  Event: picoCTF 2025 - **[486]**
-
-[496] secure-email-service  |  Category: Web Exploitation  |  Event: picoCTF 2025
-[302] solfire  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[306] stack cache  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[380] tic-tac  |  Category: Binary Exploitation  |  Event: picoCTF 2023
-[209] triple-secure  |  Category: Cryptography  |  Event: picoMini by redpwn
-* [218] vr-school  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
-* [317] wine  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - secure-email-service: Category: Web Exploitation  |  Event: picoCTF 2025 - **[496]**
   
---- Difficulty 1 ---
-* [322] Big Zip  |  Category: General Skills  |  Event: No Event
-* [442] Binary Search  |  Category: General Skills  |  Event: picoCTF 2024
-* [405] Blame Game  |  Category: General Skills  |  Event: picoCTF 2024
-* [406] Bookmarklet  |  Category: Web Exploitation  |  Event: picoCTF 2024
-* [408] CanYouSee  |  Category: Forensics  |  Event: picoCTF 2024
-* [410] Collaborative Development  |  Category: General Skills  |  Event: picoCTF 2024
-* [411] Commitment Issues  |  Category: General Skills  |  Event: picoCTF 2024
-* [469] Cookie Monster Secret Recipe  |  Category: Web Exploitation  |  Event: picoCTF 2025
-* [173] Cookies  |  Category: Web Exploitation  |  Event: picoCTF 2021
-* [519] Corrupted file  |  Category: Forensics  |  Event: picoMini by CMU-Africa
-* [520] Crack the Gate 1  |  Category: Web Exploitation  |  Event: picoMini by CMU-Africa
-* [505] DISKO 1  |  Category: Forensics  |  Event: No Event
-* [470] EVEN RSA CAN BE BROKEN???  |  Category: Cryptography  |  Event: picoCTF 2025
-* [471] FANTASY CTF  |  Category: General Skills  |  Event: picoCTF 2025
-* [320] First Find  |  Category: General Skills  |  Event: No Event
-* [472] Flag Hunters  |  Category: Reverse Engineering  |  Event: picoCTF 2025
-* [523] Flag in Flame  |  Category: Forensics  |  Event: picoMini by CMU-Africa
-* [132] GET aHEAD  |  Category: Web Exploitation  |  Event: picoCTF 2021
-* [242] Glitch Cat  |  Category: General Skills  |  Event: Beginner picoMini 2022
-* [243] HashingJobApp  |  Category: General Skills  |  Event: Beginner picoMini 2022
-* [524] Hidden in plainsight  |  Category: Forensics  |  Event: picoMini by CMU-Africa
-* [274] Includes  |  Category: Web Exploitation  |  Event: picoCTF 2022
-* [275] Inspect HTML  |  Category: Web Exploitation  |  Event: picoCTF 2022
-* [419] IntroToBurp  |  Category: Web Exploitation  |  Event: picoCTF 2024
-* [278] Local Authority  |  Category: Web Exploitation  |  Event: picoCTF 2022
-* [527] Log Hunt  |  Category: General Skills  |  Event: picoMini by CMU-Africa
-* [189] Magikarp Ground Mission  |  Category: General Skills  |  Event: picoCTF 2021
-* [490] PIE TIME  |  Category: Binary Exploitation  |  Event: picoCTF 2025
-* [245] PW Crack 1  |  Category: General Skills  |  Event: Beginner picoMini 2022
-* [246] PW Crack 2  |  Category: General Skills  |  Event: Beginner picoMini 2022
-* [459] Ph4nt0m 1ntrud3r  |  Category: Forensics  |  Event: picoCTF 2025
-* [166] Python Wrangling  |  Category: General Skills  |  Event: picoCTF 2021
-* [460] RED  |  Category: Forensics  |  Event: picoCTF 2025
-* [530] Riddle Registry  |  Category: Forensics  |  Event: picoMini by CMU-Africa
-* [461] Rust fixme 1  |  Category: General Skills  |  Event: picoCTF 2025
-* [462] Rust fixme 2  |  Category: General Skills  |  Event: picoCTF 2025
-* [463] Rust fixme 3  |  Category: General Skills  |  Event: picoCTF 2025
-* [492] SSTI1  |  Category: Web Exploitation  |  Event: picoCTF 2025
-* [444] Scan Surprise  |  Category: Forensics  |  Event: picoCTF 2024
-* [161] Scavenger Hunt  |  Category: Web Exploitation  |  Event: picoCTF 2021
-* [423] Secret of the Polyglot  |  Category: Forensics  |  Event: picoCTF 2024
-* [163] Static ain't always noise  |  Category: General Skills  |  Event: picoCTF 2021
-* [424] Super SSH  |  Category: General Skills  |  Event: picoCTF 2024
-* [176] Tab, Tab, Attack  |  Category: General Skills  |  Event: picoCTF 2021
-* [425] Time Machine  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [322] Big Zip  |  Category: General Skills  |  Event: No Event
+* 📌 - [442] Binary Search  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [405] Blame Game  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [406] Bookmarklet  |  Category: Web Exploitation  |  Event: picoCTF 2024
+* 📌 - [408] CanYouSee  |  Category: Forensics  |  Event: picoCTF 2024
+* 📌 - [410] Collaborative Development  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [411] Commitment Issues  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [469] Cookie Monster Secret Recipe  |  Category: Web Exploitation  |  Event: picoCTF 2025
+* 📌 - [173] Cookies  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [519] Corrupted file  |  Category: Forensics  |  Event: picoMini by CMU-Africa
+* 📌 - [520] Crack the Gate 1  |  Category: Web Exploitation  |  Event: picoMini by CMU-Africa
+* 📌 - [505] DISKO 1  |  Category: Forensics  |  Event: No Event
+* 📌 - [470] EVEN RSA CAN BE BROKEN???  |  Category: Cryptography  |  Event: picoCTF 2025
+* 📌 - [471] FANTASY CTF  |  Category: General Skills  |  Event: picoCTF 2025
+* 📌 - [320] First Find  |  Category: General Skills  |  Event: No Event
+* 📌 - [472] Flag Hunters  |  Category: Reverse Engineering  |  Event: picoCTF 2025
+* 📌 - [523] Flag in Flame  |  Category: Forensics  |  Event: picoMini by CMU-Africa
+* 📌 - [132] GET aHEAD  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [242] Glitch Cat  |  Category: General Skills  |  Event: Beginner picoMini 2022
+* 📌 - [243] HashingJobApp  |  Category: General Skills  |  Event: Beginner picoMini 2022
+* 📌 - [524] Hidden in plainsight  |  Category: Forensics  |  Event: picoMini by CMU-Africa
+* 📌 - [274] Includes  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [275] Inspect HTML  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [419] IntroToBurp  |  Category: Web Exploitation  |  Event: picoCTF 2024
+* 📌 - [278] Local Authority  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [527] Log Hunt  |  Category: General Skills  |  Event: picoMini by CMU-Africa
+* 📌 - [189] Magikarp Ground Mission  |  Category: General Skills  |  Event: picoCTF 2021
+* 📌 - [490] PIE TIME  |  Category: Binary Exploitation  |  Event: picoCTF 2025
+* 📌 - [245] PW Crack 1  |  Category: General Skills  |  Event: Beginner picoMini 2022
+* 📌 - [246] PW Crack 2  |  Category: General Skills  |  Event: Beginner picoMini 2022
+* 📌 - [459] Ph4nt0m 1ntrud3r  |  Category: Forensics  |  Event: picoCTF 2025
+* 📌 - [166] Python Wrangling  |  Category: General Skills  |  Event: picoCTF 2021
+* 📌 - [460] RED  |  Category: Forensics  |  Event: picoCTF 2025
+* 📌 - [530] Riddle Registry  |  Category: Forensics  |  Event: picoMini by CMU-Africa
+* 📌 - [461] Rust fixme 1  |  Category: General Skills  |  Event: picoCTF 2025
+* 📌 - [462] Rust fixme 2  |  Category: General Skills  |  Event: picoCTF 2025
+* 📌 - [463] Rust fixme 3  |  Category: General Skills  |  Event: picoCTF 2025
+* 📌 - [492] SSTI1  |  Category: Web Exploitation  |  Event: picoCTF 2025
+* 📌 - [444] Scan Surprise  |  Category: Forensics  |  Event: picoCTF 2024
+* 📌 - [161] Scavenger Hunt  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [423] Secret of the Polyglot  |  Category: Forensics  |  Event: picoCTF 2024
+* 📌 - [163] Static ain't always noise  |  Category: General Skills  |  Event: picoCTF 2021
+* 📌 - [424] Super SSH  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [176] Tab, Tab, Attack  |  Category: General Skills  |  Event: picoCTF 2021
+* 📌 - [425] Time Machine  |  Category: General Skills  |  Event: picoCTF 2024
 * [104] Transformation  |  Category: Reverse Engineering  |  Event: picoCTF 2021
 * [426] Unminify  |  Category: Web Exploitation  |  Event: picoCTF 2024
 * [450] Verify  |  Category: Forensics  |  Event: picoCTF 2024
