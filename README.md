@@ -23,7 +23,7 @@ In this repo I'll share the code for my CTFs
 - [x] [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [74] - [What Lies Within](https://medium.com/@sobatistacyber/picoctf-writeups-what-lies-within-317ae7bc5aa6): Category: Forensics  |  Event: picoCTF 2019 ✅
 - [x] [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 ✅
-* [PicoCTF Writeups: Shark on Wire 1](https://medium.com/@sobatistacyber/picoctf-writeups-shark-on-wire-1-f7c0576dd312)
+- [x] [30] - [shark on wire 1](https://medium.com/@sobatistacyber/picoctf-writeups-shark-on-wire-1-f7c0576dd312): Category: Forensics  |  Event: picoCTF 2019 ✅
 * [PicoCTF Writeups: extensions](https://medium.com/@sobatistacyber/picoctf-writeups-extensions-6f91fef27fe5)
 * [PicoCTF Writeups: So Meta](https://medium.com/@sobatistacyber/picoctf-writeups-so-meta-207084a93f9d)
 * [PicoCTF Writeups: Tapping](https://medium.com/@sobatistacyber/picoctf-writeups-tapping-bca3d49d0bfd)
@@ -350,7 +350,6 @@ In this repo I'll share the code for my CTFs
 [61] rsa-pop-quiz  |  Category: Cryptography  |  Event: picoCTF 2019
 [422] rsa_oracle  |  Category: Cryptography  |  Event: picoCTF 2024
 [50] seed-sPRiNG  |  Category: Binary Exploitation  |  Event: picoCTF 2019
-[30] shark on wire 1  |  Category: Forensics  |  Event: picoCTF 2019
 [84] shark on wire 2  |  Category: Forensics  |  Event: picoCTF 2019
 [55] sice_cream  |  Category: Binary Exploitation  |  Event: picoCTF 2019
 [116] speeds and feeds  |  Category: Reverse Engineering  |  Event: picoCTF 2021
