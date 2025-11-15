@@ -60,6 +60,27 @@ In this repo I'll share the code for my CTFs
 * [PicoCTF Writeup: Nice netcat…](https://medium.com/@sobatistacyber/picoctf-writeup-nice-netcat-2d97351299a9)
 * [PicoCTF Writeup: fixme2.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme2-py-1e16c4075290)
 
+* 📌 - gogo: Category: Reverse Engineering  |  Event: picoCTF 2021 - **[171]**
+* 📌 - lockdown-horses: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[214]**
+* 📌 - homework: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[217]**
+* 📌 - not crypto: Category: Reverse Engineering  |  Event: picoMini by redpwn - **[222]**
+* 📌 - msfroggenerator2: Category: Web Exploitation  |  Event: picoCTF 2023 - **[360]**
+* 📌 - high frequency troubles: Category: Binary Exploitation  |  Event: picoCTF 2024 - **[441]**
+* 📌 - handoff: Category: Binary Exploitation  |  Event: picoCTF 2025 - **[486]**
+
+[282] noted  |  Category: Web Exploitation  |  Event: picoCTF 2022
+[204] notepad  |  Category: Web Exploitation  |  Event: picoMini by redpwn
+[219] riscy business  |  Category: Reverse Engineering  |  Event: picoMini by redpwn
+[292] ropfu  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+[206] scrambled-bytes  |  Category: Forensics  |  Event: picoMini by redpwn
+[496] secure-email-service  |  Category: Web Exploitation  |  Event: picoCTF 2025
+[302] solfire  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+[306] stack cache  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+[380] tic-tac  |  Category: Binary Exploitation  |  Event: picoCTF 2023
+[209] triple-secure  |  Category: Cryptography  |  Event: picoMini by redpwn
+* [218] vr-school  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
+* [317] wine  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+  
 --- Difficulty 1 ---
 * [322] Big Zip  |  Category: General Skills  |  Event: No Event
 * [442] Binary Search  |  Category: General Skills  |  Event: picoCTF 2024
@@ -451,25 +472,6 @@ In this repo I'll share the code for my CTFs
 [184] filtered-shellcode  |  Category: Binary Exploitation  |  Event: picoCTF 2021
 [417] flag_printer  |  Category: Cryptography  |  Event: picoCTF 2024
 [272] function overwrite  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[171] gogo  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[486] handoff  |  Category: Binary Exploitation  |  Event: picoCTF 2025
-[441] high frequency troubles  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-[217] homework  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
-[214] lockdown-horses  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
-[360] msfroggenerator2  |  Category: Web Exploitation  |  Event: picoCTF 2023
-[222] not crypto  |  Category: Reverse Engineering  |  Event: picoMini by redpwn
-[282] noted  |  Category: Web Exploitation  |  Event: picoCTF 2022
-[204] notepad  |  Category: Web Exploitation  |  Event: picoMini by redpwn
-[219] riscy business  |  Category: Reverse Engineering  |  Event: picoMini by redpwn
-[292] ropfu  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[206] scrambled-bytes  |  Category: Forensics  |  Event: picoMini by redpwn
-[496] secure-email-service  |  Category: Web Exploitation  |  Event: picoCTF 2025
-[302] solfire  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[306] stack cache  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[380] tic-tac  |  Category: Binary Exploitation  |  Event: picoCTF 2023
-[209] triple-secure  |  Category: Cryptography  |  Event: picoMini by redpwn
-* [218] vr-school  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
-* [317] wine  |  Category: Binary Exploitation  |  Event: picoCTF 2022
 
 ### ROP Emporium
 * [ROP Emporium Writeup: split](https://medium.com/@sobatistacyber/rop-emporium-writeup-split-2578e0ad64ab)
