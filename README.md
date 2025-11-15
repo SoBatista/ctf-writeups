@@ -171,40 +171,40 @@ In this repo I'll share the code for my CTFs
 * 📌 - [413] Dear Diary  |  Category: Forensics  |  Event: picoCTF 2024
 * 📌 - [113] Disk, disk, sleuth!  |  Category: Forensics  |  Event: picoCTF 2021
 * 📌 - [137] Disk, disk, sleuth! II  |  Category: Forensics  |  Event: picoCTF 2021
-* [125] Easy Peasy  |  Category: Cryptography  |  Event: picoCTF 2021
-* [264] Eavesdrop  |  Category: Forensics  |  Event: picoCTF 2022
-* [485] Echo Valley  |  Category: Binary Exploitation  |  Event: picoCTF 2025
-* [265] Enhance!  |  Category: Forensics  |  Event: picoCTF 2022
-* [456] Event-Viewing  |  Category: Forensics  |  Event: picoCTF 2025
-* [416] FactCheck  |  Category: Reverse Engineering  |  Event: picoCTF 2024
-* [268] File types  |  Category: Forensics  |  Event: picoCTF 2022
-* [348] FindAndOpen  |  Category: Forensics  |  Event: picoCTF 2023
-* [31] Flags  |  Category: Cryptography  |  Event: picoCTF 2019
-* [270] Forbidden Paths  |  Category: Web Exploitation  |  Event: picoCTF 2022
-* [271] Fresh Java  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-* [273] GDB Test Drive  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-* [395] GDB baby step 1  |  Category: Reverse Engineering  |  Event: No Event
-* [396] GDB baby step 2  |  Category: Reverse Engineering  |  Event: No Event
-* [397] GDB baby step 3  |  Category: Reverse Engineering  |  Event: No Event
-* [398] GDB baby step 4  |  Category: Reverse Engineering  |  Event: No Event
-* [473] Guess My Cheese (Part 1)  |  Category: Cryptography  |  Event: picoCTF 2025
-* [474] Guess My Cheese (Part 2)  |  Category: Cryptography  |  Event: picoCTF 2025
-* [90] Guessing Game 1  |  Category: Binary Exploitation  |  Event: picoCTF 2020 Mini-Competition
-* [351] HideToSee  |  Category: Cryptography  |  Event: picoCTF 2023
-* [525] Input Injection 1  |  Category: Binary Exploitation  |  Event: picoMini by CMU-Africa
-* [526] Input Injection 2  |  Category: Binary Exploitation  |  Event: picoMini by CMU-Africa
-* [70] Investigative Reversing 0  |  Category: Forensics  |  Event: picoCTF 2019
-* [83] Investigative Reversing 3  |  Category: Forensics  |  Event: picoCTF 2019
-* [54] Investigative Reversing 4  |  Category: Forensics  |  Event: picoCTF 2019
-* [80] Irish-Name-Repo 1  |  Category: Web Exploitation  |  Event: picoCTF 2019
-* [59] Irish-Name-Repo 2  |  Category: Web Exploitation  |  Event: picoCTF 2019
-* [8] Irish-Name-Repo 3  |  Category: Web Exploitation  |  Event: picoCTF 2019
-* [109] It is my Birthday  |  Category: Web Exploitation  |  Event: picoCTF 2021
-* [236] JAuth  |  Category: Web Exploitation  |  Event: No Event
-* [25] JaWT Scratchpad  |  Category: Web Exploitation  |  Event: picoCTF 2019
-* [355] Java Code Analysis!?!  |  Category: Web Exploitation  |  Event: picoCTF 2023
-* [29] Java Script Kiddie  |  Category: Web Exploitation  |  Event: picoCTF 2019
-* [33] Java Script Kiddie 2  |  Category: Web Exploitation  |  Event: picoCTF 2019
+* 📌 - [125] Easy Peasy  |  Category: Cryptography  |  Event: picoCTF 2021
+* 📌 - [264] Eavesdrop  |  Category: Forensics  |  Event: picoCTF 2022
+* 📌 - [485] Echo Valley  |  Category: Binary Exploitation  |  Event: picoCTF 2025
+* 📌 - [265] Enhance!  |  Category: Forensics  |  Event: picoCTF 2022
+* 📌 - [456] Event-Viewing  |  Category: Forensics  |  Event: picoCTF 2025
+* 📌 - [416] FactCheck  |  Category: Reverse Engineering  |  Event: picoCTF 2024
+* 📌 - [268] File types  |  Category: Forensics  |  Event: picoCTF 2022
+* 📌 - [348] FindAndOpen  |  Category: Forensics  |  Event: picoCTF 2023
+* 📌 - [31] Flags  |  Category: Cryptography  |  Event: picoCTF 2019
+* 📌 - [270] Forbidden Paths  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [271] Fresh Java  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [273] GDB Test Drive  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [395] GDB baby step 1  |  Category: Reverse Engineering  |  Event: No Event
+* 📌 - [396] GDB baby step 2  |  Category: Reverse Engineering  |  Event: No Event
+* 📌 - [397] GDB baby step 3  |  Category: Reverse Engineering  |  Event: No Event
+* 📌 - [398] GDB baby step 4  |  Category: Reverse Engineering  |  Event: No Event
+* 📌 - [473] Guess My Cheese (Part 1)  |  Category: Cryptography  |  Event: picoCTF 2025
+* 📌 - [474] Guess My Cheese (Part 2)  |  Category: Cryptography  |  Event: picoCTF 2025
+* 📌 - [90] Guessing Game 1  |  Category: Binary Exploitation  |  Event: picoCTF 2020 Mini-Competition
+* 📌 - [351] HideToSee  |  Category: Cryptography  |  Event: picoCTF 2023
+* 📌 - [525] Input Injection 1  |  Category: Binary Exploitation  |  Event: picoMini by CMU-Africa
+* 📌 - [526] Input Injection 2  |  Category: Binary Exploitation  |  Event: picoMini by CMU-Africa
+* 📌 - [70] Investigative Reversing 0  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [83] Investigative Reversing 3  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [54] Investigative Reversing 4  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [80] Irish-Name-Repo 1  |  Category: Web Exploitation  |  Event: picoCTF 2019
+* 📌 - [59] Irish-Name-Repo 2  |  Category: Web Exploitation  |  Event: picoCTF 2019
+* 📌 - [8] Irish-Name-Repo 3  |  Category: Web Exploitation  |  Event: picoCTF 2019
+* 📌 - [109] It is my Birthday  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [236] JAuth  |  Category: Web Exploitation  |  Event: No Event
+* 📌 - [25] JaWT Scratchpad  |  Category: Web Exploitation  |  Event: picoCTF 2019
+* 📌 - [355] Java Code Analysis!?!  |  Category: Web Exploitation  |  Event: picoCTF 2023
+* 📌 - [29] Java Script Kiddie  |  Category: Web Exploitation  |  Event: picoCTF 2019
+* 📌 - [33] Java Script Kiddie 2  |  Category: Web Exploitation  |  Event: picoCTF 2019
 * [399] Local Target  |  Category: Binary Exploitation  |  Event: No Event
 * [279] Lookey here  |  Category: Forensics  |  Event: picoCTF 2022
 * [528] M1n10n'5_53cr37  |  Category: Reverse Engineering  |  Event: picoMini by CMU-Africa
