@@ -5,20 +5,20 @@ In this repo I'll share the code for my CTFs
 
 ### PicoCTF
 
+- [x] [4] - [where are the robots](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1): Category: Web Exploitation  |  Event: picoCTF 2019 ✅
 - [x] [7] - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019 ✅
 - [ ] [10] - vault-door-8  |  Category: Reverse Engineering  |  Event: picoCTF 2019 📌
 - [ ] [11] - droids0  |  Category: Reverse Engineering  |  Event: picoCTF 2019 📌
 - [x] [18] - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019 ✅
 - [x] [22] - [Lets Warm Up](https://medium.com/@sobatistacyber/picoctf-writeup-lets-warm-up-ef799cbd2541): Category: General Skills  |  Event: picoCTF 2019 ✅
+- [x] [34] - [what's a net cat?](https://medium.com/@sobatistacyber/cracking-picoctfs-what-s-a-net-cat-challenge-1d7f39b3f445): Category: General Skills  |  Event: picoCTF 2019 ✅
+- [x] [37] - [strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72): Category: General Skills  |  Event: picoCTF 2019 ✅
 - [x] [43] - [Easy1](https://medium.com/@sobatistacyber/picoctf-writeup-easy1-challenge-67b9eac0fb90): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [44] - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019 ✅
+- [x] [46] - [logon](https://medium.com/@sobatistacyber/picoctf-writeups-logon-ff6003102bc2): Category: Web Exploitation  |  Event: picoCTF 2019 ✅
 - [x] [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019 ✅
 - [x] [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 ✅
-- [x] [37] - [strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72): Category: General Skills  |  Event: picoCTF 2019 ✅
-- [x] [4] - [where are the robots](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1): Category: Web Exploitation  |  Event: picoCTF 2019 ✅
-- [x] [Cracking PicoCTF’s “What’s a Net Cat?” Challenge](https://medium.com/@sobatistacyber/cracking-picoctfs-what-s-a-net-cat-challenge-1d7f39b3f445)
-- [x] [PicoCTF Writeups: logon](https://medium.com/@sobatistacyber/picoctf-writeups-logon-ff6003102bc2)
 - [x] [PicoCTF Writeups: Bases](https://medium.com/@sobatistacyber/picoctf-writeups-bases-0bd7be0d42e9)
 - [x] [PicoCTF Writeups: Caesar](https://medium.com/@sobatistacyber/picoctf-writeups-caesar-63fc4fe2cc16)
 - [x] [PicoCTF Writeups: vault-door-1](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-1-381afc732453)
@@ -337,7 +337,6 @@ In this repo I'll share the code for my CTFs
 [3] la cifra de  |  Category: Cryptography  |  Event: picoCTF 2019
 [81] like1000  |  Category: Forensics  |  Event: picoCTF 2019
 [200] login  |  Category: Web Exploitation  |  Event: picoMini by redpwn
-[46] logon  |  Category: Web Exploitation  |  Event: picoCTF 2019
 [26] m00nwalk  |  Category: Forensics  |  Event: picoCTF 2019
 [28] m00nwalk2  |  Category: Forensics  |  Event: picoCTF 2019
 [73] miniRSA  |  Category: Cryptography  |  Event: picoCTF 2019
@@ -377,7 +376,6 @@ In this repo I'll share the code for my CTFs
 [65] vault-door-7  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 [38] waves over lambda  |  Category: Cryptography  |  Event: picoCTF 2019
 [428] weirdSnake  |  Category: Reverse Engineering  |  Event: picoCTF 2024
-[34] what's a net cat?  |  Category: General Skills  |  Event: picoCTF 2019
 [319] x-sixty-what  |  Category: Binary Exploitation  |  Event: picoCTF 2022
 [75] zero_to_hero  |  Category: Binary Exploitation  |  Event: picoCTF 2019
 
