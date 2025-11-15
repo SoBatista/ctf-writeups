@@ -6,14 +6,16 @@ In this repo I'll share the code for my CTFs
 ### PicoCTF
 
 * 📌 - b00tl3gRSA2: Category: Cryptography  |  Event: picoCTF 2019 - **[2]**
+* ✅ - [la cifra de](https://medium.com/@sobatistacyber/picoctf-writeup-la-cifra-de-e5b2822bd593): Category: Cryptography  |  Event: picoCTF 2019 - **[3]**
 * ✅ - [where are the robots](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1): Category: Web Exploitation  |  Event: picoCTF 2019 - **[4]**
 * 📌 - asm4: Category: Reverse Engineering  |  Event: picoCTF 2019 - **[5]**
 * ✅ - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[7]**
 * ✅ - [picobrowser](https://medium.com/@sobatistacyber/picoctf-writeups-picobrowser-2f50821aab2d): Category: Web Exploitation  |  Event: picoCTF 2019 - **[9]**
 * 📌 - vault-door-8: Category: Reverse Engineering  |  Event: picoCTF 2019 - **[10]**
-* 📌 - droids0: Category: Reverse Engineering  |  Event: picoCTF 2019 - **[11]**
+* ✅ - [droids0](https://medium.com/@sobatistacyber/hacking-android-apps-solving-the-picoctf-challenge-droids0-ecc173be2ebc): Category: Reverse Engineering  |  Event: picoCTF 2019**[11]**
 * ✅ - [vault-door-1](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-1-381afc732453): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[12]**
 * 📌 - droids1: Category: Reverse Engineering  |  Event: picoCTF 2019 - **[14]**
+* ✅ - [mus1c](https://medium.com/@sobatistacyber/picoctf-writeups-mus1c-dfaa0ba856e8): Category: General Skills  |  Event: picoCTF 2019 - **[15]**
 * 📌 - droids4: Category: Reverse Engineering  |  Event: picoCTF 2019 - **[17]**
 * ✅ - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019 - **[18]**
 * ✅ - [So Meta](https://medium.com/@sobatistacyber/picoctf-writeups-so-meta-207084a93f9d): Category: Forensics  |  Event: picoCTF 2019 - **[19]**
@@ -21,6 +23,7 @@ In this repo I'll share the code for my CTFs
 * ✅ - [Tapping](https://medium.com/@sobatistacyber/picoctf-writeups-tapping-bca3d49d0bfd): Category: Cryptography  |  Event: picoCTF 2019 - **[21]**
 * ✅ - [Lets Warm Up](https://medium.com/@sobatistacyber/picoctf-writeup-lets-warm-up-ef799cbd2541): Category: General Skills  |  Event: picoCTF 2019 - **[22]**
 * 📌 - droids3  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **[23]**
+* ✅ - [m00nwalk](https://medium.com/@sobatistacyber/picoctf-writeup-m00nwalk-15a64699ac21): Category: Forensics  |  Event: picoCTF 2019 - **[26]**
 * ✅ - [shark on wire 1](https://medium.com/@sobatistacyber/picoctf-writeups-shark-on-wire-1-f7c0576dd312): Category: Forensics  |  Event: picoCTF 2019 - **[30]**
 * ✅ - [what's a net cat?](https://medium.com/@sobatistacyber/cracking-picoctfs-what-s-a-net-cat-challenge-1d7f39b3f445): Category: General Skills  |  Event: picoCTF 2019 - **[34]**
 * ✅ - [Based](https://medium.com/@sobatistacyber/picoctf-writeups-based-e4d62df7f529): Category: General Skills  |  Event: picoCTF 2019 - **[35]**
@@ -30,34 +33,30 @@ In this repo I'll share the code for my CTFs
 * ✅ - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019 - **[44]**
 * ✅ - [logon](https://medium.com/@sobatistacyber/picoctf-writeups-logon-ff6003102bc2): Category: Web Exploitation  |  Event: picoCTF 2019 - **[46]**
 * ✅ - [plumbing](https://medium.com/@sobatistacyber/picoctf-writeups-plumbing-776a8ad6dca5): Category: General Skills  |  Event: picoCTF 2019 - **[48]**
+* ✅ - [WhitePages](https://medium.com/@sobatistacyber/picoctf-writeup-whitepages-4d13300b3566): Category: Forensics  |  Event: picoCTF 2019 - **[51]**
 * ✅ - [extensions](https://medium.com/@sobatistacyber/picoctf-writeups-extensions-6f91fef27fe5): Category: Forensics  |  Event: picoCTF 2019 - **[52]**
+* ✅ - [c0rrupt](https://medium.com/@sobatistacyber/picoctf-writeup-c0rrupt-cc24de6f61e9): Category: Forensics  |  Event: picoCTF 2019 - **[53]**
 * ✅ - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019 - **[58]**
 * ✅ - [vault-door-3](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-3-86f9d578f87e): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[60]**
+* ✅ - [rsa-pop-quiz](https://medium.com/@sobatistacyber/picoctf-writeup-rsa-pop-quiz-b13fbf4c6d2c): Category: Cryptography  |  Event: picoCTF 2019 - **[61]**
 * ✅ - [13](https://medium.com/@sobatistacyber/picoctf-writeups-13-607203851771): Category: Cryptography  |  Event: picoCTF 2019 - **[62]**
 * ✅ - [caesar](https://medium.com/@sobatistacyber/picoctf-writeups-caesar-63fc4fe2cc16): Category: Cryptography  |  Event: picoCTF 2019 - **[64]**
 * ✅ - [dont-use-client-side](https://medium.com/@sobatistacyber/picoctf-writeups-dont-use-client-side-1cda7ae1cc87): Category: Web Exploitation  |  Event: picoCTF 2019 - **[66]**
 * ✅ - [Bases](https://medium.com/@sobatistacyber/picoctf-writeups-bases-0bd7be0d42e9): Category: General Skills  |  Event: picoCTF 2019 - **[67]**
 * ✅ - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019 - **[68]**
 * ✅ - [Client-side-again](https://medium.com/@sobatistacyber/picoctf-writeups-client-side-again-7e39aa25207d): Category: Web Exploitation  |  Event: picoCTF 2019 - **[69]**
+* ✅ - [vault-door-4](https://medium.com/@sobatistacyber/picoctf-writeup-vault-door-4-522592ddc9c4): Category: Reverse Engineering  |  Event: picoCTF 2019 - **[71]**
 * ✅ - [What Lies Within](https://medium.com/@sobatistacyber/picoctf-writeups-what-lies-within-317ae7bc5aa6): Category: Forensics  |  Event: picoCTF 2019 - **[74]**
 * ✅ - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 - **[86]**
 * ✅ - [Pitter, Patter, Platters](https://medium.com/@sobatistacyber/picoctf-writeups-pitter-patter-platters-83283dded072): Category: Forensics  |  Event: picoCTF 2020 Mini-Competition - **[87]**
 * ✅ - [First Grep](https://medium.com/@sobatistacyber/picoctf-writeups-first-grep-0b5ca8d8fe09): Category: General Skills  |  Event: picoCTF 2019 - **[85]**
-* ✅ - [rsa-pop-quiz](https://medium.com/@sobatistacyber/picoctf-writeup-rsa-pop-quiz-b13fbf4c6d2c): Category: Cryptography  |  Event: picoCTF 2019 - **[61]**
-* ✅ - [la cifra de](https://medium.com/@sobatistacyber/picoctf-writeup-la-cifra-de-e5b2822bd593): Category: Cryptography  |  Event: picoCTF 2019 - **[3]**
-* [PicoCTF Writeup: Web Gauntlet](https://medium.com/@sobatistacyber/picoctf-writeup-web-gauntlet-7c3b8c7c7946)
-* [PicoCTF Writeup: c0rrupt](https://medium.com/@sobatistacyber/picoctf-writeup-c0rrupt-cc24de6f61e9)
-* [PicoCTF Writeup: m00nwalk](https://medium.com/@sobatistacyber/picoctf-writeup-m00nwalk-15a64699ac21)
-* [PicoCTF Writeup: vault-door-4](https://medium.com/@sobatistacyber/picoctf-writeup-vault-door-4-522592ddc9c4)
-* [PicoCTF Writeup: WhitePages](https://medium.com/@sobatistacyber/picoctf-writeup-whitepages-4d13300b3566)
-* [PicoCTF Writeup: Obedient Cat](https://medium.com/@sobatistacyber/picoctf-writeup-obedient-cat-be832e34166c)
-* [PicoCTF Writeup: Mod 26](https://medium.com/@sobatistacyber/picoctf-writeup-mod-26-af704fba7ebc)
-* [PicoCTF Writeups: mus1c](https://medium.com/@sobatistacyber/picoctf-writeups-mus1c-dfaa0ba856e8)
-* [Hacking Android Apps: Solving the PicoCTF Challenge— droids0](https://medium.com/@sobatistacyber/hacking-android-apps-solving-the-picoctf-challenge-droids0-ecc173be2ebc)
-* [PicoCTF Writeup: fixme1.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme1-py-d5e81f1e259c)
-* [PicoCTF Writeup: Codebook](https://medium.com/@sobatistacyber/picoctf-writeup-codebook-f17732d7a2dc)
-* [PicoCTF Writeup: Nice netcat…](https://medium.com/@sobatistacyber/picoctf-writeup-nice-netcat-2d97351299a9)
-* [PicoCTF Writeup: fixme2.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme2-py-1e16c4075290)
+* ✅ - [Web Gauntlet](https://medium.com/@sobatistacyber/picoctf-writeup-web-gauntlet-7c3b8c7c7946): Category: Web Exploitation  |  Event: picoCTF 2020 Mini-Competition - **[88]**
+* ✅ - [Mod 26](https://medium.com/@sobatistacyber/picoctf-writeup-mod-26-af704fba7ebc): Category: Cryptography  |  Event: picoCTF 2021 - **[144]**
+* ✅ - [Obedient Cat](https://medium.com/@sobatistacyber/picoctf-writeup-obedient-cat-be832e34166c): Category: General Skills  |  Event: picoCTF 2021 - **[147]**
+* ✅ - [Nice netcat...](https://medium.com/@sobatistacyber/picoctf-writeup-nice-netcat-2d97351299a9): Category: General Skills  |  Event: picoCTF 2021 - **[156]**
+* ✅ - [Codebook](https://medium.com/@sobatistacyber/picoctf-writeup-codebook-f17732d7a2dc): Category: General Skills  |  Event: Beginner picoMini 2022 - **[238]**
+* ✅ - [fixme1.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme1-py-d5e81f1e259c): Category: General Skills  |  Event: Beginner picoMini 2022 - **[240]**
+* ✅ - [fixme2.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme2-py-1e16c4075290): Category: General Skills  |  Event: Beginner picoMini 2022 - **[241]**
 * 📌 - gogo: Category: Reverse Engineering  |  Event: picoCTF 2021 - **[171]**
 * 📌 - notepad: Category: Web Exploitation  |  Event: picoMini by redpwn - **[204]**
 * 📌 - lockdown-horses: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[214]**
@@ -87,7 +86,6 @@ In this repo I'll share the code for my CTFs
 * [405] Blame Game  |  Category: General Skills  |  Event: picoCTF 2024
 * [406] Bookmarklet  |  Category: Web Exploitation  |  Event: picoCTF 2024
 * [408] CanYouSee  |  Category: Forensics  |  Event: picoCTF 2024
-* [238] Codebook  |  Category: General Skills  |  Event: Beginner picoMini 2022
 * [410] Collaborative Development  |  Category: General Skills  |  Event: picoCTF 2024
 * [411] Commitment Issues  |  Category: General Skills  |  Event: picoCTF 2024
 * [469] Cookie Monster Secret Recipe  |  Category: Web Exploitation  |  Event: picoCTF 2025
@@ -110,9 +108,6 @@ In this repo I'll share the code for my CTFs
 * [278] Local Authority  |  Category: Web Exploitation  |  Event: picoCTF 2022
 * [527] Log Hunt  |  Category: General Skills  |  Event: picoMini by CMU-Africa
 * [189] Magikarp Ground Mission  |  Category: General Skills  |  Event: picoCTF 2021
-* [144] Mod 26  |  Category: Cryptography  |  Event: picoCTF 2021
-* [156] Nice netcat...  |  Category: General Skills  |  Event: picoCTF 2021
-* [147] Obedient Cat  |  Category: General Skills  |  Event: picoCTF 2021
 * [490] PIE TIME  |  Category: Binary Exploitation  |  Event: picoCTF 2025
 * [245] PW Crack 1  |  Category: General Skills  |  Event: Beginner picoMini 2022
 * [246] PW Crack 2  |  Category: General Skills  |  Event: Beginner picoMini 2022
@@ -139,8 +134,6 @@ In this repo I'll share the code for my CTFs
 * [404] binhexa  |  Category: General Skills  |  Event: picoCTF 2024
 * [239] convertme.py  |  Category: General Skills  |  Event: Beginner picoMini 2022
 * [414] endianness  |  Category: General Skills  |  Event: picoCTF 2024
-* [240] fixme1.py  |  Category: General Skills  |  Event: Beginner picoMini 2022
-* [241] fixme2.py  |  Category: General Skills  |  Event: Beginner picoMini 2022
 * [433] format string 0  |  Category: Binary Exploitation  |  Event: picoCTF 2024
 * [475] hashcrack  |  Category: Cryptography  |  Event: picoCTF 2025
 * [476] head-dump  |  Category: Web Exploitation  |  Event: picoCTF 2025
@@ -292,13 +285,11 @@ In this repo I'll share the code for my CTFs
 [316] Vigenere  |  Category: Cryptography  |  Event: picoCTF 2022
 [385] Virtual Machine 0  |  Category: Reverse Engineering  |  Event: picoCTF 2023
 [237] WPA-ing Out  |  Category: Forensics  |  Event: No Event
-[88] Web Gauntlet  |  Category: Web Exploitation  |  Event: picoCTF 2020 Mini-Competition
 [174] Web Gauntlet 2  |  Category: Web Exploitation  |  Event: picoCTF 2021
 [128] Web Gauntlet 3  |  Category: Web Exploitation  |  Event: picoCTF 2021
 [32] WebNet0  |  Category: Forensics  |  Event: picoCTF 2019
 [42] WebNet1  |  Category: Forensics  |  Event: picoCTF 2019
 [480] WebSockFish  |  Category: Web Exploitation  |  Event: picoCTF 2025
-[51] WhitePages  |  Category: Forensics  |  Event: picoCTF 2019
 [142] Who are you?  |  Category: Web Exploitation  |  Event: picoCTF 2021
 [429] WinAntiDbg0x100  |  Category: Reverse Engineering  |  Event: picoCTF 2024
 [430] WinAntiDbg0x200  |  Category: Reverse Engineering  |  Event: picoCTF 2024
@@ -318,7 +309,6 @@ In this repo I'll share the code for my CTFs
 [258] buffer overflow 1  |  Category: Binary Exploitation  |  Event: picoCTF 2022
 [259] buffer overflow 2  |  Category: Binary Exploitation  |  Event: picoCTF 2022
 [518] byp4ss3d  |  Category: Web Exploitation  |  Event: picoMini by CMU-Africa
-[53] c0rrupt  |  Category: Forensics  |  Event: picoCTF 2019
 [202] caas  |  Category: Web Exploitation  |  Event: picoMini by redpwn
 [347] chrono  |  Category: General Skills  |  Event: picoCTF 2023
 [216] clutter-overflow  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
@@ -349,11 +339,9 @@ In this repo I'll share the code for my CTFs
 [121] keygenme-py  |  Category: Reverse Engineering  |  Event: picoCTF 2021
 [81] like1000  |  Category: Forensics  |  Event: picoCTF 2019
 [200] login  |  Category: Web Exploitation  |  Event: picoMini by redpwn
-[26] m00nwalk  |  Category: Forensics  |  Event: picoCTF 2019
 [28] m00nwalk2  |  Category: Forensics  |  Event: picoCTF 2019
 [73] miniRSA  |  Category: Cryptography  |  Event: picoCTF 2019
 [280] morse-code  |  Category: Cryptography  |  Event: picoCTF 2022
-[15] mus1c  |  Category: General Skills  |  Event: picoCTF 2019
 [421] packer  |  Category: Reverse Engineering  |  Event: picoCTF 2024
 [287] patchme.py  |  Category: Reverse Engineering  |  Event: picoCTF 2022
 [458] perplexed  |  Category: Reverse Engineering  |  Event: picoCTF 2025
@@ -376,7 +364,6 @@ In this repo I'll share the code for my CTFs
 [313] unpackme  |  Category: Reverse Engineering  |  Event: picoCTF 2022
 [314] unpackme.py  |  Category: Reverse Engineering  |  Event: picoCTF 2022
 [384] useless  |  Category: General Skills  |  Event: picoCTF 2023
-[71] vault-door-4  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 [77] vault-door-5  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 [45] vault-door-6  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 [65] vault-door-7  |  Category: Reverse Engineering  |  Event: picoCTF 2019
