@@ -76,7 +76,6 @@ In this repo I'll share the code for my CTFs
 * 📌 - high frequency troubles: Category: Binary Exploitation  |  Event: picoCTF 2024 - **[441]**
 * 📌 - handoff: Category: Binary Exploitation  |  Event: picoCTF 2025 - **[486]**
 * 📌 - secure-email-service: Category: Web Exploitation  |  Event: picoCTF 2025 - **[496]**
-  
 * 📌 - [322] Big Zip  |  Category: General Skills  |  Event: No Event
 * 📌 - [442] Binary Search  |  Category: General Skills  |  Event: picoCTF 2024
 * 📌 - [405] Blame Game  |  Category: General Skills  |  Event: picoCTF 2024
@@ -122,58 +121,56 @@ In this repo I'll share the code for my CTFs
 * 📌 - [424] Super SSH  |  Category: General Skills  |  Event: picoCTF 2024
 * 📌 - [176] Tab, Tab, Attack  |  Category: General Skills  |  Event: picoCTF 2021
 * 📌 - [425] Time Machine  |  Category: General Skills  |  Event: picoCTF 2024
-* [104] Transformation  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-* [426] Unminify  |  Category: Web Exploitation  |  Event: picoCTF 2024
-* [450] Verify  |  Category: Forensics  |  Event: picoCTF 2024
-* [170] Wave a flag  |  Category: General Skills  |  Event: picoCTF 2021
-* [427] WebDecode  |  Category: Web Exploitation  |  Event: picoCTF 2024
-* [404] binhexa  |  Category: General Skills  |  Event: picoCTF 2024
-* [239] convertme.py  |  Category: General Skills  |  Event: Beginner picoMini 2022
-* [414] endianness  |  Category: General Skills  |  Event: picoCTF 2024
-* [433] format string 0  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-* [475] hashcrack  |  Category: Cryptography  |  Event: picoCTF 2025
-* [476] head-dump  |  Category: Web Exploitation  |  Event: picoCTF 2025
-* [438] heap 0  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-* [186] information  |  Category: Forensics  |  Event: picoCTF 2021
-* [418] interencdec  |  Category: Cryptography  |  Event: picoCTF 2024
-* [482] n0s4n1ty 1  |  Category: Web Exploitation  |  Event: picoCTF 2025
-* [371] repetitions  |  Category: General Skills  |  Event: picoCTF 2023
-* [250] runme.py  |  Category: General Skills  |  Event: Beginner picoMini 2022
-
---- Difficulty 2 ---
-* [82] 1_wanna_b3_a_r0ck5tar  |  Category: General Skills  |  Event: picoCTF 2019
-* [484] 3v@l  |  Category: Web Exploitation  |  Event: picoCTF 2025
-* [76] AES-ABC  |  Category: Cryptography  |  Event: picoCTF 2019
-* [160] ARMssembly 0  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-* [111] ARMssembly 1  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-* [389] ASCII FTW  |  Category: Reverse Engineering  |  Event: No Event
-* [390] ASCII Numbers  |  Category: General Skills  |  Event: No Event
-* [467] Apriti sesamo  |  Category: Web Exploitation  |  Event: picoCTF 2025
-* [56] B1g_Mac  |  Category: Forensics  |  Event: picoCTF 2019
-* [57] B1ll_Gat35  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-* [255] Bbbbloat  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-* [451] Binary Instrumentation 1  |  Category: Reverse Engineering  |  Event: picoCTF 2025
-* [452] Binary Instrumentation 2  |  Category: Reverse Engineering  |  Event: picoCTF 2025
-* [391] Bit-O-Asm-1  |  Category: Reverse Engineering  |  Event: No Event
-* [392] Bit-O-Asm-2  |  Category: Reverse Engineering  |  Event: No Event
-* [393] Bit-O-Asm-3  |  Category: Reverse Engineering  |  Event: No Event
-* [394] Bit-O-Asm-4  |  Category: Reverse Engineering  |  Event: No Event
-* [453] Bitlocker-1  |  Category: Forensics  |  Event: picoCTF 2025
-* [454] Bitlocker-2  |  Category: Forensics  |  Event: picoCTF 2025
-* [432] Blast from the past  |  Category: Forensics  |  Event: picoCTF 2024
-* [407] C3  |  Category: Cryptography  |  Event: picoCTF 2024
-* [262] CVE-XXXX-XXXX  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-* [468] Chronohack  |  Category: Reverse Engineering  |  Event: picoCTF 2025
-* [409] Classic Crackme 0x100  |  Category: Reverse Engineering  |  Event: picoCTF 2024
-* [521] Crack the Gate 2  |  Category: Web Exploitation  |  Event: picoMini by CMU-Africa
-* [522] Crack the Power  |  Category: Cryptography  |  Event: picoMini by CMU-Africa
-* [412] Custom encryption  |  Category: Cryptography  |  Event: picoCTF 2024
-* [506] DISKO 2  |  Category: Forensics  |  Event: No Event
-* [507] DISKO 3  |  Category: Forensics  |  Event: No Event
-* [159] Dachshund Attacks  |  Category: Cryptography  |  Event: picoCTF 2021
-* [413] Dear Diary  |  Category: Forensics  |  Event: picoCTF 2024
-* [113] Disk, disk, sleuth!  |  Category: Forensics  |  Event: picoCTF 2021
-* [137] Disk, disk, sleuth! II  |  Category: Forensics  |  Event: picoCTF 2021
+* 📌 - [104] Transformation  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [426] Unminify  |  Category: Web Exploitation  |  Event: picoCTF 2024
+* 📌 - [450] Verify  |  Category: Forensics  |  Event: picoCTF 2024
+* 📌 - [170] Wave a flag  |  Category: General Skills  |  Event: picoCTF 2021
+* 📌 - [427] WebDecode  |  Category: Web Exploitation  |  Event: picoCTF 2024
+* 📌 - [404] binhexa  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [239] convertme.py  |  Category: General Skills  |  Event: Beginner picoMini 2022
+* 📌 - [414] endianness  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [433] format string 0  |  Category: Binary Exploitation  |  Event: picoCTF 2024
+* 📌 - [475] hashcrack  |  Category: Cryptography  |  Event: picoCTF 2025
+* 📌 - [476] head-dump  |  Category: Web Exploitation  |  Event: picoCTF 2025
+* 📌 - [438] heap 0  |  Category: Binary Exploitation  |  Event: picoCTF 2024
+* 📌 - [186] information  |  Category: Forensics  |  Event: picoCTF 2021
+* 📌 - [418] interencdec  |  Category: Cryptography  |  Event: picoCTF 2024
+* 📌 - [482] n0s4n1ty 1  |  Category: Web Exploitation  |  Event: picoCTF 2025
+* 📌 - [371] repetitions  |  Category: General Skills  |  Event: picoCTF 2023
+* 📌 - [250] runme.py  |  Category: General Skills  |  Event: Beginner picoMini 2022
+* 📌 - [82] 1_wanna_b3_a_r0ck5tar  |  Category: General Skills  |  Event: picoCTF 2019
+* 📌 - [484] 3v@l  |  Category: Web Exploitation  |  Event: picoCTF 2025
+* 📌 - [76] AES-ABC  |  Category: Cryptography  |  Event: picoCTF 2019
+* 📌 - [160] ARMssembly 0  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [111] ARMssembly 1  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [389] ASCII FTW  |  Category: Reverse Engineering  |  Event: No Event
+* 📌 - [390] ASCII Numbers  |  Category: General Skills  |  Event: No Event
+* 📌 - [467] Apriti sesamo  |  Category: Web Exploitation  |  Event: picoCTF 2025
+* 📌 - [56] B1g_Mac  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [57] B1ll_Gat35  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 - [255] Bbbbloat  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [451] Binary Instrumentation 1  |  Category: Reverse Engineering  |  Event: picoCTF 2025
+* 📌 - [452] Binary Instrumentation 2  |  Category: Reverse Engineering  |  Event: picoCTF 2025
+* 📌 - [391] Bit-O-Asm-1  |  Category: Reverse Engineering  |  Event: No Event
+* 📌 - [392] Bit-O-Asm-2  |  Category: Reverse Engineering  |  Event: No Event
+* 📌 - [393] Bit-O-Asm-3  |  Category: Reverse Engineering  |  Event: No Event
+* 📌 - [394] Bit-O-Asm-4  |  Category: Reverse Engineering  |  Event: No Event
+* 📌 - [453] Bitlocker-1  |  Category: Forensics  |  Event: picoCTF 2025
+* 📌 - [454] Bitlocker-2  |  Category: Forensics  |  Event: picoCTF 2025
+* 📌 - [432] Blast from the past  |  Category: Forensics  |  Event: picoCTF 2024
+* 📌 - [407] C3  |  Category: Cryptography  |  Event: picoCTF 2024
+* 📌 - [262] CVE-XXXX-XXXX  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - [468] Chronohack  |  Category: Reverse Engineering  |  Event: picoCTF 2025
+* 📌 - [409] Classic Crackme 0x100  |  Category: Reverse Engineering  |  Event: picoCTF 2024
+* 📌 - [521] Crack the Gate 2  |  Category: Web Exploitation  |  Event: picoMini by CMU-Africa
+* 📌 - [522] Crack the Power  |  Category: Cryptography  |  Event: picoMini by CMU-Africa
+* 📌 - [412] Custom encryption  |  Category: Cryptography  |  Event: picoCTF 2024
+* 📌 - [506] DISKO 2  |  Category: Forensics  |  Event: No Event
+* 📌 - [507] DISKO 3  |  Category: Forensics  |  Event: No Event
+* 📌 - [159] Dachshund Attacks  |  Category: Cryptography  |  Event: picoCTF 2021
+* 📌 - [413] Dear Diary  |  Category: Forensics  |  Event: picoCTF 2024
+* 📌 - [113] Disk, disk, sleuth!  |  Category: Forensics  |  Event: picoCTF 2021
+* 📌 - [137] Disk, disk, sleuth! II  |  Category: Forensics  |  Event: picoCTF 2021
 * [125] Easy Peasy  |  Category: Cryptography  |  Event: picoCTF 2021
 * [264] Eavesdrop  |  Category: Forensics  |  Event: picoCTF 2022
 * [485] Echo Valley  |  Category: Binary Exploitation  |  Event: picoCTF 2025
@@ -251,196 +248,194 @@ In this repo I'll share the code for my CTFs
 * [369] Ready Gladiator 1  |  Category: Reverse Engineering  |  Event: picoCTF 2023
 * [370] Ready Gladiator 2  |  Category: Reverse Engineering  |  Event: picoCTF 2023
 * [290] Redaction gone wrong  |  Category: Forensics  |  Event: picoCTF 2022
-* [372] Reverse  |  Category: Reverse Engineering  |  Event: picoCTF 2023
-* [291] Roboto Sans  |  Category: Web Exploitation  |  Event: picoCTF 2022
-* [376] SOAP  |  Category: Web Exploitation  |  Event: picoCTF 2023
-* [303] SQL Direct  |  Category: Web Exploitation  |  Event: picoCTF 2022
-[304] SQLiLite  |  Category: Web Exploitation  |  Event: picoCTF 2022
-[488] SSTI2  |  Category: Web Exploitation  |  Event: picoCTF 2025
-[294] Safe Opener  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-[375] Safe Opener 2  |  Category: Reverse Engineering  |  Event: picoCTF 2023
-[436] SansAlpha  |  Category: General Skills  |  Event: picoCTF 2024
-[295] Search source  |  Category: Web Exploitation  |  Event: picoCTF 2022
-[296] Secrets  |  Category: Web Exploitation  |  Event: picoCTF 2022
-[251] Serpentine  |  Category: General Skills  |  Event: Beginner picoMini 2022
-[134] Shop  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[300] Sleuthkit Apprentice  |  Category: Forensics  |  Event: picoCTF 2022
-[301] Sleuthkit Intro  |  Category: Forensics  |  Event: picoCTF 2022
-[152] Some Assembly Required 1  |  Category: Web Exploitation  |  Event: picoCTF 2021
-[131] Some Assembly Required 2  |  Category: Web Exploitation  |  Event: picoCTF 2021
-[377] Special  |  Category: General Skills  |  Event: picoCTF 2023
-[378] Specialer  |  Category: General Skills  |  Event: picoCTF 2023
-[305] St3g0  |  Category: Forensics  |  Event: picoCTF 2022
-[105] Stonks  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[180] Super Serial  |  Category: Web Exploitation  |  Event: picoCTF 2021
-[466] Tap into Hash  |  Category: Reverse Engineering  |  Event: picoCTF 2025
-[311] Torrent Analyze  |  Category: Forensics  |  Event: picoCTF 2022
-[445] Trickster  |  Category: Web Exploitation  |  Event: picoCTF 2024
-[103] Trivial Flag Transfer Protocol  |  Category: Forensics  |  Event: picoCTF 2021
-[387] VNE  |  Category: Binary Exploitation  |  Event: picoCTF 2023
-[316] Vigenere  |  Category: Cryptography  |  Event: picoCTF 2022
-[385] Virtual Machine 0  |  Category: Reverse Engineering  |  Event: picoCTF 2023
-[237] WPA-ing Out  |  Category: Forensics  |  Event: No Event
-[174] Web Gauntlet 2  |  Category: Web Exploitation  |  Event: picoCTF 2021
-[128] Web Gauntlet 3  |  Category: Web Exploitation  |  Event: picoCTF 2021
-[32] WebNet0  |  Category: Forensics  |  Event: picoCTF 2019
-[42] WebNet1  |  Category: Forensics  |  Event: picoCTF 2019
-[480] WebSockFish  |  Category: Web Exploitation  |  Event: picoCTF 2025
-[142] Who are you?  |  Category: Web Exploitation  |  Event: picoCTF 2021
-[429] WinAntiDbg0x100  |  Category: Reverse Engineering  |  Event: picoCTF 2024
-[430] WinAntiDbg0x200  |  Category: Reverse Engineering  |  Event: picoCTF 2024
-[431] WinAntiDbg0x300  |  Category: Reverse Engineering  |  Event: picoCTF 2024
-[115] Wireshark doo dooo do doo...  |  Category: Forensics  |  Event: picoCTF 2021
-[110] Wireshark twoo twooo two twoo...  |  Category: Forensics  |  Event: picoCTF 2021
-[483] YaraRules0x100  |  Category: General Skills  |  Event: picoCTF 2025
-[205] advanced-potion-making  |  Category: Forensics  |  Event: picoMini by redpwn
-[72] asm3  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[78] b00tl3gRSA3  |  Category: Cryptography  |  Event: picoCTF 2019
-[345] babygame01  |  Category: Binary Exploitation  |  Event: picoCTF 2023
-[252] basic-file-exploit  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[253] basic-mod1  |  Category: Cryptography  |  Event: picoCTF 2022
-[254] basic-mod2  |  Category: Cryptography  |  Event: picoCTF 2022
-[256] bloat.py  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-[257] buffer overflow 0  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[258] buffer overflow 1  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[259] buffer overflow 2  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[518] byp4ss3d  |  Category: Web Exploitation  |  Event: picoMini by CMU-Africa
-[202] caas  |  Category: Web Exploitation  |  Event: picoMini by redpwn
-[347] chrono  |  Category: General Skills  |  Event: picoCTF 2023
-[216] clutter-overflow  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
-[175] crackme-py  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[261] credstuff  |  Category: Cryptography  |  Event: picoCTF 2022
-[437] dont-you-love-banners  |  Category: General Skills  |  Event: picoCTF 2024
-[63] droids2  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[415] endianness-v2  |  Category: Forensics  |  Event: picoCTF 2024
-[266] file-run1  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-[267] file-run2  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-[349] findme  |  Category: Web Exploitation  |  Event: picoCTF 2023
-[269] flag leak  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[49] flag_shop  |  Category: General Skills  |  Event: picoCTF 2019
-[481] flags are stepic  |  Category: Forensics  |  Event: picoCTF 2025
-[434] format string 1  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-[448] format string 2  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-[449] format string 3  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-[487] hash-only-1  |  Category: Binary Exploitation  |  Event: picoCTF 2025
-[489] hash-only-2  |  Category: Binary Exploitation  |  Event: picoCTF 2025
-[439] heap 1  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-[435] heap 2  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-[440] heap 3  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-[350] hideme  |  Category: Forensics  |  Event: picoCTF 2023
-[352] hijacking  |  Category: Binary Exploitation  |  Event: picoCTF 2023
-[47] investigation_encoded_1  |  Category: Forensics  |  Event: picoCTF 2019
-[36] investigation_encoded_2  |  Category: Forensics  |  Event: picoCTF 2019
-[6] john_pollard  |  Category: Cryptography  |  Event: picoCTF 2019
-[121] keygenme-py  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[81] like1000  |  Category: Forensics  |  Event: picoCTF 2019
-[200] login  |  Category: Web Exploitation  |  Event: picoMini by redpwn
-[28] m00nwalk2  |  Category: Forensics  |  Event: picoCTF 2019
-[73] miniRSA  |  Category: Cryptography  |  Event: picoCTF 2019
-[280] morse-code  |  Category: Cryptography  |  Event: picoCTF 2022
-[421] packer  |  Category: Reverse Engineering  |  Event: picoCTF 2024
-[287] patchme.py  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-[458] perplexed  |  Category: Reverse Engineering  |  Event: picoCTF 2025
-[289] rail-fence  |  Category: Cryptography  |  Event: picoCTF 2022
-[79] reverse_cipher  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[373] rotation  |  Category: Cryptography  |  Event: picoCTF 2023
-[422] rsa_oracle  |  Category: Cryptography  |  Event: picoCTF 2024
-[50] seed-sPRiNG  |  Category: Binary Exploitation  |  Event: picoCTF 2019
-[84] shark on wire 2  |  Category: Forensics  |  Event: picoCTF 2019
-[55] sice_cream  |  Category: Binary Exploitation  |  Event: picoCTF 2019
-[116] speeds and feeds  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[210] spelling-quiz  |  Category: Cryptography  |  Event: picoMini by redpwn
-[307] substitution0  |  Category: Cryptography  |  Event: picoCTF 2022
-[308] substitution1  |  Category: Cryptography  |  Event: picoCTF 2022
-[309] substitution2  |  Category: Cryptography  |  Event: picoCTF 2022
-[381] timer  |  Category: Reverse Engineering  |  Event: picoCTF 2023
-[312] transposition-trial  |  Category: Cryptography  |  Event: picoCTF 2022
-[112] tunn3l v1s10n  |  Category: Forensics  |  Event: picoCTF 2021
-[382] two-sum  |  Category: Binary Exploitation  |  Event: picoCTF 2023
-[313] unpackme  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-[314] unpackme.py  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-[384] useless  |  Category: General Skills  |  Event: picoCTF 2023
-[77] vault-door-5  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[45] vault-door-6  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[65] vault-door-7  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[38] waves over lambda  |  Category: Cryptography  |  Event: picoCTF 2019
-[428] weirdSnake  |  Category: Reverse Engineering  |  Event: picoCTF 2024
-[319] x-sixty-what  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[75] zero_to_hero  |  Category: Binary Exploitation  |  Event: picoCTF 2019
-
---- Difficulty 3 ---
-[150] ARMssembly 2  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[106] ARMssembly 3  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[183] ARMssembly 4  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[190] Bithug  |  Category: Web Exploitation  |  Event: picoCTF 2021
-[181] Bizz Fuzz  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[146] Cache Me Outside  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[493] ChaCha Slide  |  Category: Cryptography  |  Event: picoCTF 2025
-[149] Checkpass  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[136] Clouds  |  Category: Cryptography  |  Event: picoCTF 2021
-[127] Compress and Attack  |  Category: Cryptography  |  Event: picoCTF 2021
-[140] Double DES  |  Category: Cryptography  |  Event: picoCTF 2021
-[135] Download Horsepower  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[122] Easy as GDB  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[24] Forky  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[89] Guessing Game 2  |  Category: Binary Exploitation  |  Event: picoCTF 2020 Mini-Competition
-[179] Here's a LIBC  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[353] Horsetrack  |  Category: Binary Exploitation  |  Event: picoCTF 2023
-[165] Hurry up! Wait!  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[27] Investigative Reversing 1  |  Category: Forensics  |  Event: picoCTF 2019
-[13] Investigative Reversing 2  |  Category: Forensics  |  Event: picoCTF 2019
-[354] Invisible WORDs  |  Category: Forensics  |  Event: picoCTF 2023
-[123] It's Not My Fault 1  |  Category: Cryptography  |  Event: picoCTF 2021
-[276] Keygenme  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-[168] Kit Engine  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[102] Let's get dynamic  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[277] Live Art  |  Category: Web Exploitation  |  Event: picoCTF 2022
-[221] MATRIX  |  Category: Reverse Engineering  |  Event: picoMini by redpwn
-[283] NSA Backdoor  |  Category: Cryptography  |  Event: picoCTF 2022
-[148] New Vignere  |  Category: Cryptography  |  Event: picoCTF 2021
-[361] No way out  |  Category: Reverse Engineering  |  Event: picoCTF 2023
-[92] OTP Implementation  |  Category: Reverse Engineering  |  Event: picoCTF 2020 Mini-Competition
-[478] Pachinko Revisited  |  Category: Web Exploitation  |  Event: picoCTF 2025
-[114] Play Nice  |  Category: Cryptography  |  Event: picoCTF 2021
-[364] PowerAnalysis: Part 1  |  Category: Cryptography  |  Event: picoCTF 2023
-[365] PowerAnalysis: Part 2  |  Category: Cryptography  |  Event: picoCTF 2023
-[366] PowerAnalysis: Warmup  |  Category: Cryptography  |  Event: picoCTF 2023
-[119] Powershelly  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[495] Ricochet  |  Category: Cryptography  |  Event: picoCTF 2025
-[151] Rolling My Own  |  Category: Reverse Engineering  |  Event: picoCTF 2021
-[379] SRA  |  Category: Cryptography  |  Event: picoCTF 2023
-[213] SaaS  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
-[107] Scrambled: RSA  |  Category: Cryptography  |  Event: picoCTF 2021
-[297] Sequences  |  Category: Cryptography  |  Event: picoCTF 2022
-[298] SideChannel  |  Category: Forensics  |  Event: picoCTF 2022
-[153] Some Assembly Required 3  |  Category: Web Exploitation  |  Event: picoCTF 2021
-[182] Some Assembly Required 4  |  Category: Web Exploitation  |  Event: picoCTF 2021
-[164] Stonk Market  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[310] Sum-O-Primes  |  Category: Cryptography  |  Event: picoCTF 2022
-[117] Surfing the Waves  |  Category: Forensics  |  Event: picoCTF 2021
-[172] The Office  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[178] Turboflan  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[383] UnforgottenBits  |  Category: Forensics  |  Event: picoCTF 2023
-[187] Unsubscriptions Are Free  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[315] Very Smooth  |  Category: Cryptography  |  Event: picoCTF 2022
-[141] Very very very Hidden  |  Category: Forensics  |  Event: picoCTF 2021
-[386] Virtual Machine 1  |  Category: Reverse Engineering  |  Event: picoCTF 2023
-[318] Wizardlike  |  Category: Reverse Engineering  |  Event: picoCTF 2022
-[208] XtraORdinary  |  Category: Cryptography  |  Event: picoMini by redpwn
-[16] asm2  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[346] babygame02  |  Category: Binary Exploitation  |  Event: picoCTF 2023
-[446] babygame03  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-[220] breadth  |  Category: Reverse Engineering  |  Event: picoMini by redpwn
-[260] buffer overflow 3  |  Category: Binary Exploitation  |  Event: picoCTF 2022
-[344] cancri-sp  |  Category: Web Exploitation  |  Event: picoCTF 2023
-[212] college-rowing-team  |  Category: Cryptography  |  Event: picoMini by redpwn
-[207] corrupt-key-1  |  Category: Cryptography  |  Event: picoMini by redpwn
-[211] corrupt-key-2  |  Category: Cryptography  |  Event: picoMini by redpwn
-[447] elements  |  Category: Web Exploitation  |  Event: picoCTF 2024
-[215] fermat-strings  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
-[184] filtered-shellcode  |  Category: Binary Exploitation  |  Event: picoCTF 2021
-[417] flag_printer  |  Category: Cryptography  |  Event: picoCTF 2024
-[272] function overwrite  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - [372] Reverse  |  Category: Reverse Engineering  |  Event: picoCTF 2023
+* 📌 - [291] Roboto Sans  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [376] SOAP  |  Category: Web Exploitation  |  Event: picoCTF 2023
+* 📌 - [303] SQL Direct  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [304] SQLiLite  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [488] SSTI2  |  Category: Web Exploitation  |  Event: picoCTF 2025
+* 📌 - [294] Safe Opener  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [375] Safe Opener 2  |  Category: Reverse Engineering  |  Event: picoCTF 2023
+* 📌 - [436] SansAlpha  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [295] Search source  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [296] Secrets  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [251] Serpentine  |  Category: General Skills  |  Event: Beginner picoMini 2022
+* 📌 - [134] Shop  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [300] Sleuthkit Apprentice  |  Category: Forensics  |  Event: picoCTF 2022
+* 📌 - [301] Sleuthkit Intro  |  Category: Forensics  |  Event: picoCTF 2022
+* 📌 - [152] Some Assembly Required 1  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [131] Some Assembly Required 2  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [377] Special  |  Category: General Skills  |  Event: picoCTF 2023
+* 📌 - [378] Specialer  |  Category: General Skills  |  Event: picoCTF 2023
+* 📌 - [305] St3g0  |  Category: Forensics  |  Event: picoCTF 2022
+* 📌 - [105] Stonks  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [180] Super Serial  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [466] Tap into Hash  |  Category: Reverse Engineering  |  Event: picoCTF 2025
+* 📌 - [311] Torrent Analyze  |  Category: Forensics  |  Event: picoCTF 2022
+* 📌 - [445] Trickster  |  Category: Web Exploitation  |  Event: picoCTF 2024
+* 📌 - [103] Trivial Flag Transfer Protocol  |  Category: Forensics  |  Event: picoCTF 2021
+* 📌 - [387] VNE  |  Category: Binary Exploitation  |  Event: picoCTF 2023
+* 📌 - [316] Vigenere  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [385] Virtual Machine 0  |  Category: Reverse Engineering  |  Event: picoCTF 2023
+* 📌 - [237] WPA-ing Out  |  Category: Forensics  |  Event: No Event
+* 📌 - [174] Web Gauntlet 2  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [128] Web Gauntlet 3  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [32] WebNet0  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [42] WebNet1  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [480] WebSockFish  |  Category: Web Exploitation  |  Event: picoCTF 2025
+* 📌 - [142] Who are you?  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [429] WinAntiDbg0x100  |  Category: Reverse Engineering  |  Event: picoCTF 2024
+* 📌 - [430] WinAntiDbg0x200  |  Category: Reverse Engineering  |  Event: picoCTF 2024
+* 📌 - [431] WinAntiDbg0x300  |  Category: Reverse Engineering  |  Event: picoCTF 2024
+* 📌 - [115] Wireshark doo dooo do doo...  |  Category: Forensics  |  Event: picoCTF 2021
+* 📌 - [110] Wireshark twoo twooo two twoo...  |  Category: Forensics  |  Event: picoCTF 2021
+* 📌 - [483] YaraRules0x100  |  Category: General Skills  |  Event: picoCTF 2025
+* 📌 - [205] advanced-potion-making  |  Category: Forensics  |  Event: picoMini by redpwn
+* 📌 - [72] asm3  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 - [78] b00tl3gRSA3  |  Category: Cryptography  |  Event: picoCTF 2019
+* 📌 - [345] babygame01  |  Category: Binary Exploitation  |  Event: picoCTF 2023
+* 📌 - [252] basic-file-exploit  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - [253] basic-mod1  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [254] basic-mod2  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [256] bloat.py  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [257] buffer overflow 0  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - [258] buffer overflow 1  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - [259] buffer overflow 2  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - [518] byp4ss3d  |  Category: Web Exploitation  |  Event: picoMini by CMU-Africa
+* 📌 - [202] caas  |  Category: Web Exploitation  |  Event: picoMini by redpwn
+* 📌 - [347] chrono  |  Category: General Skills  |  Event: picoCTF 2023
+* 📌 - [216] clutter-overflow  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
+* 📌 - [175] crackme-py  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [261] credstuff  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [437] dont-you-love-banners  |  Category: General Skills  |  Event: picoCTF 2024
+* 📌 - [63] droids2  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 - [415] endianness-v2  |  Category: Forensics  |  Event: picoCTF 2024
+* 📌 - [266] file-run1  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [267] file-run2  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [349] findme  |  Category: Web Exploitation  |  Event: picoCTF 2023
+* 📌 - [269] flag leak  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - [49] flag_shop  |  Category: General Skills  |  Event: picoCTF 2019
+* 📌 - [481] flags are stepic  |  Category: Forensics  |  Event: picoCTF 2025
+* 📌 - [434] format string 1  |  Category: Binary Exploitation  |  Event: picoCTF 2024
+* 📌 - [448] format string 2  |  Category: Binary Exploitation  |  Event: picoCTF 2024
+* 📌 - [449] format string 3  |  Category: Binary Exploitation  |  Event: picoCTF 2024
+* 📌 - [487] hash-only-1  |  Category: Binary Exploitation  |  Event: picoCTF 2025
+* 📌 - [489] hash-only-2  |  Category: Binary Exploitation  |  Event: picoCTF 2025
+* 📌 - [439] heap 1  |  Category: Binary Exploitation  |  Event: picoCTF 2024
+* 📌 - [435] heap 2  |  Category: Binary Exploitation  |  Event: picoCTF 2024
+* 📌 - [440] heap 3  |  Category: Binary Exploitation  |  Event: picoCTF 2024
+* 📌 - [350] hideme  |  Category: Forensics  |  Event: picoCTF 2023
+* 📌 - [352] hijacking  |  Category: Binary Exploitation  |  Event: picoCTF 2023
+* 📌 - [47] investigation_encoded_1  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [36] investigation_encoded_2  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [6] john_pollard  |  Category: Cryptography  |  Event: picoCTF 2019
+* 📌 - [121] keygenme-py  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [81] like1000  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [200] login  |  Category: Web Exploitation  |  Event: picoMini by redpwn
+* 📌 - [28] m00nwalk2  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [73] miniRSA  |  Category: Cryptography  |  Event: picoCTF 2019
+* 📌 - [280] morse-code  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [421] packer  |  Category: Reverse Engineering  |  Event: picoCTF 2024
+* 📌 - [287] patchme.py  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [458] perplexed  |  Category: Reverse Engineering  |  Event: picoCTF 2025
+* 📌 - [289] rail-fence  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [79] reverse_cipher  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 - [373] rotation  |  Category: Cryptography  |  Event: picoCTF 2023
+* 📌 - [422] rsa_oracle  |  Category: Cryptography  |  Event: picoCTF 2024
+* 📌 - [50] seed-sPRiNG  |  Category: Binary Exploitation  |  Event: picoCTF 2019
+* 📌 - [84] shark on wire 2  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [55] sice_cream  |  Category: Binary Exploitation  |  Event: picoCTF 2019
+* 📌 - [116] speeds and feeds  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [210] spelling-quiz  |  Category: Cryptography  |  Event: picoMini by redpwn
+* 📌 - [307] substitution0  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [308] substitution1  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [309] substitution2  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [381] timer  |  Category: Reverse Engineering  |  Event: picoCTF 2023
+* 📌 - [312] transposition-trial  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [112] tunn3l v1s10n  |  Category: Forensics  |  Event: picoCTF 2021
+* 📌 - [382] two-sum  |  Category: Binary Exploitation  |  Event: picoCTF 2023
+* 📌 - [313] unpackme  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [314] unpackme.py  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [384] useless  |  Category: General Skills  |  Event: picoCTF 2023
+* 📌 - [77] vault-door-5  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 - [45] vault-door-6  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 - [65] vault-door-7  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 - [38] waves over lambda  |  Category: Cryptography  |  Event: picoCTF 2019
+* 📌 - [428] weirdSnake  |  Category: Reverse Engineering  |  Event: picoCTF 2024
+* 📌 - [319] x-sixty-what  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - [75] zero_to_hero  |  Category: Binary Exploitation  |  Event: picoCTF 2019
+* 📌 - [150] ARMssembly 2  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [106] ARMssembly 3  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [183] ARMssembly 4  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [190] Bithug  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [181] Bizz Fuzz  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [146] Cache Me Outside  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [493] ChaCha Slide  |  Category: Cryptography  |  Event: picoCTF 2025
+* 📌 - [149] Checkpass  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [136] Clouds  |  Category: Cryptography  |  Event: picoCTF 2021
+* 📌 - [127] Compress and Attack  |  Category: Cryptography  |  Event: picoCTF 2021
+* 📌 - [140] Double DES  |  Category: Cryptography  |  Event: picoCTF 2021
+* 📌 - [135] Download Horsepower  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [122] Easy as GDB  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [24] Forky  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 - [89] Guessing Game 2  |  Category: Binary Exploitation  |  Event: picoCTF 2020 Mini-Competition
+* 📌 - [179] Here's a LIBC  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [353] Horsetrack  |  Category: Binary Exploitation  |  Event: picoCTF 2023
+* 📌 - [165] Hurry up! Wait!  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [27] Investigative Reversing 1  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [13] Investigative Reversing 2  |  Category: Forensics  |  Event: picoCTF 2019
+* 📌 - [354] Invisible WORDs  |  Category: Forensics  |  Event: picoCTF 2023
+* 📌 - [123] It's Not My Fault 1  |  Category: Cryptography  |  Event: picoCTF 2021
+* 📌 - [276] Keygenme  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [168] Kit Engine  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [102] Let's get dynamic  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [277] Live Art  |  Category: Web Exploitation  |  Event: picoCTF 2022
+* 📌 - [221] MATRIX  |  Category: Reverse Engineering  |  Event: picoMini by redpwn
+* 📌 - [283] NSA Backdoor  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [148] New Vignere  |  Category: Cryptography  |  Event: picoCTF 2021
+* 📌 - [361] No way out  |  Category: Reverse Engineering  |  Event: picoCTF 2023
+* 📌 - [92] OTP Implementation  |  Category: Reverse Engineering  |  Event: picoCTF 2020 Mini-Competition
+* 📌 - [478] Pachinko Revisited  |  Category: Web Exploitation  |  Event: picoCTF 2025
+* 📌 - [114] Play Nice  |  Category: Cryptography  |  Event: picoCTF 2021
+* 📌 - [364] PowerAnalysis: Part 1  |  Category: Cryptography  |  Event: picoCTF 2023
+* 📌 - [365] PowerAnalysis: Part 2  |  Category: Cryptography  |  Event: picoCTF 2023
+* 📌 - [366] PowerAnalysis: Warmup  |  Category: Cryptography  |  Event: picoCTF 2023
+* 📌 - [119] Powershelly  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [495] Ricochet  |  Category: Cryptography  |  Event: picoCTF 2025
+* 📌 - [151] Rolling My Own  |  Category: Reverse Engineering  |  Event: picoCTF 2021
+* 📌 - [379] SRA  |  Category: Cryptography  |  Event: picoCTF 2023
+* 📌 - [213] SaaS  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
+* 📌 - [107] Scrambled: RSA  |  Category: Cryptography  |  Event: picoCTF 2021
+* 📌 - [297] Sequences  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [298] SideChannel  |  Category: Forensics  |  Event: picoCTF 2022
+* 📌 - [153] Some Assembly Required 3  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [182] Some Assembly Required 4  |  Category: Web Exploitation  |  Event: picoCTF 2021
+* 📌 - [164] Stonk Market  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [310] Sum-O-Primes  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [117] Surfing the Waves  |  Category: Forensics  |  Event: picoCTF 2021
+* 📌 - [172] The Office  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [178] Turboflan  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [383] UnforgottenBits  |  Category: Forensics  |  Event: picoCTF 2023
+* 📌 - [187] Unsubscriptions Are Free  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [315] Very Smooth  |  Category: Cryptography  |  Event: picoCTF 2022
+* 📌 - [141] Very very very Hidden  |  Category: Forensics  |  Event: picoCTF 2021
+* 📌 - [386] Virtual Machine 1  |  Category: Reverse Engineering  |  Event: picoCTF 2023
+* 📌 - [318] Wizardlike  |  Category: Reverse Engineering  |  Event: picoCTF 2022
+* 📌 - [208] XtraORdinary  |  Category: Cryptography  |  Event: picoMini by redpwn
+* 📌 - [16] asm2  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 - [346] babygame02  |  Category: Binary Exploitation  |  Event: picoCTF 2023
+* 📌 - [446] babygame03  |  Category: Binary Exploitation  |  Event: picoCTF 2024
+* 📌 - [220] breadth  |  Category: Reverse Engineering  |  Event: picoMini by redpwn
+* 📌 - [260] buffer overflow 3  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+* 📌 - [344] cancri-sp  |  Category: Web Exploitation  |  Event: picoCTF 2023
+* 📌 - [212] college-rowing-team  |  Category: Cryptography  |  Event: picoMini by redpwn
+* 📌 - [207] corrupt-key-1  |  Category: Cryptography  |  Event: picoMini by redpwn
+* 📌 - [211] corrupt-key-2  |  Category: Cryptography  |  Event: picoMini by redpwn
+* 📌 - [447] elements  |  Category: Web Exploitation  |  Event: picoCTF 2024
+* 📌 - [215] fermat-strings  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
+* 📌 - [184] filtered-shellcode  |  Category: Binary Exploitation  |  Event: picoCTF 2021
+* 📌 - [417] flag_printer  |  Category: Cryptography  |  Event: picoCTF 2024
+* 📌 - [272] function overwrite  |  Category: Binary Exploitation  |  Event: picoCTF 2022
 
 ### ROP Emporium
 * [ROP Emporium Writeup: split](https://medium.com/@sobatistacyber/rop-emporium-writeup-split-2578e0ad64ab)
