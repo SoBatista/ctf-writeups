@@ -54,24 +54,22 @@ In this repo I'll share the code for my CTFs
 * ✅ - [Mod 26](https://medium.com/@sobatistacyber/picoctf-writeup-mod-26-af704fba7ebc): Category: Cryptography  |  Event: picoCTF 2021 - **[144]**
 * ✅ - [Obedient Cat](https://medium.com/@sobatistacyber/picoctf-writeup-obedient-cat-be832e34166c): Category: General Skills  |  Event: picoCTF 2021 - **[147]**
 * ✅ - [Nice netcat...](https://medium.com/@sobatistacyber/picoctf-writeup-nice-netcat-2d97351299a9): Category: General Skills  |  Event: picoCTF 2021 - **[156]**
-* ✅ - [Codebook](https://medium.com/@sobatistacyber/picoctf-writeup-codebook-f17732d7a2dc): Category: General Skills  |  Event: Beginner picoMini 2022 - **[238]**
-* ✅ - [fixme1.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme1-py-d5e81f1e259c): Category: General Skills  |  Event: Beginner picoMini 2022 - **[240]**
-* ✅ - [fixme2.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme2-py-1e16c4075290): Category: General Skills  |  Event: Beginner picoMini 2022 - **[241]**
 * 📌 - gogo: Category: Reverse Engineering  |  Event: picoCTF 2021 - **[171]**
 * 📌 - notepad: Category: Web Exploitation  |  Event: picoMini by redpwn - **[204]**
+* 📌 - scrambled-bytes: Category: Forensics  |  Event: picoMini by redpwn - **[206]**
 * 📌 - lockdown-horses: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[214]**
 * 📌 - homework: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[217]**
 * 📌 - riscy business: Category: Reverse Engineering  |  Event: picoMini by redpwn - **[219]**
 * 📌 - not crypto: Category: Reverse Engineering  |  Event: picoMini by redpwn - **[222]**
+* ✅ - [Codebook](https://medium.com/@sobatistacyber/picoctf-writeup-codebook-f17732d7a2dc): Category: General Skills  |  Event: Beginner picoMini 2022 - **[238]**
+* ✅ - [fixme1.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme1-py-d5e81f1e259c): Category: General Skills  |  Event: Beginner picoMini 2022 - **[240]**
+* ✅ - [fixme2.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme2-py-1e16c4075290): Category: General Skills  |  Event: Beginner picoMini 2022 - **[241]**
 * 📌 - noted: Category: Web Exploitation  |  Event: picoCTF 2022 - **[282]**
 * 📌 - ropfu: Category: Binary Exploitation  |  Event: picoCTF 2022 - **[292]**
 * 📌 - msfroggenerator2: Category: Web Exploitation  |  Event: picoCTF 2023 - **[360]**
 * 📌 - high frequency troubles: Category: Binary Exploitation  |  Event: picoCTF 2024 - **[441]**
 * 📌 - handoff: Category: Binary Exploitation  |  Event: picoCTF 2025 - **[486]**
 
-
-
-[206] scrambled-bytes  |  Category: Forensics  |  Event: picoMini by redpwn
 [496] secure-email-service  |  Category: Web Exploitation  |  Event: picoCTF 2025
 [302] solfire  |  Category: Binary Exploitation  |  Event: picoCTF 2022
 [306] stack cache  |  Category: Binary Exploitation  |  Event: picoCTF 2022
