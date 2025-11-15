@@ -19,9 +19,9 @@ In this repo I'll share the code for my CTFs
 * 📌 - droids3  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **[23]**
 * ✅ - [shark on wire 1](https://medium.com/@sobatistacyber/picoctf-writeups-shark-on-wire-1-f7c0576dd312): Category: Forensics  |  Event: picoCTF 2019 - **[30]**
 * ✅ - [what's a net cat?](https://medium.com/@sobatistacyber/cracking-picoctfs-what-s-a-net-cat-challenge-1d7f39b3f445): Category: General Skills  |  Event: picoCTF 2019 - **[34]**
-* ✅ [37] - [strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72): Category: General Skills  |  Event: picoCTF 2019
-* ✅ [43] - [Easy1](https://medium.com/@sobatistacyber/picoctf-writeup-easy1-challenge-67b9eac0fb90): Category: Cryptography  |  Event: picoCTF 2019
-* ✅ [44] - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019
+* ✅ - [strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72): Category: General Skills  |  Event: picoCTF 2019 - **[37]**
+* ✅ - [Easy1](https://medium.com/@sobatistacyber/picoctf-writeup-easy1-challenge-67b9eac0fb90): Category: Cryptography  |  Event: picoCTF 2019 - **[43]**
+* ✅ - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019 - **[44]**
 * ✅ [46] - [logon](https://medium.com/@sobatistacyber/picoctf-writeups-logon-ff6003102bc2): Category: Web Exploitation  |  Event: picoCTF 2019
 * ✅ [52] - [extensions](https://medium.com/@sobatistacyber/picoctf-writeups-extensions-6f91fef27fe5): Category: Forensics  |  Event: picoCTF 2019
 * ✅ [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019
@@ -59,19 +59,20 @@ In this repo I'll share the code for my CTFs
 * [PicoCTF Writeup: Codebook](https://medium.com/@sobatistacyber/picoctf-writeup-codebook-f17732d7a2dc)
 * [PicoCTF Writeup: Nice netcat…](https://medium.com/@sobatistacyber/picoctf-writeup-nice-netcat-2d97351299a9)
 * [PicoCTF Writeup: fixme2.py](https://medium.com/@sobatistacyber/picoctf-writeup-fixme2-py-1e16c4075290)
-
 * 📌 - gogo: Category: Reverse Engineering  |  Event: picoCTF 2021 - **[171]**
+* 📌 - notepad: Category: Web Exploitation  |  Event: picoMini by redpwn - **[204]**
 * 📌 - lockdown-horses: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[214]**
 * 📌 - homework: Category: Binary Exploitation  |  Event: picoMini by redpwn - **[217]**
+* 📌 - riscy business: Category: Reverse Engineering  |  Event: picoMini by redpwn - **[219]**
 * 📌 - not crypto: Category: Reverse Engineering  |  Event: picoMini by redpwn - **[222]**
+* 📌 - noted: Category: Web Exploitation  |  Event: picoCTF 2022 - **[282]**
+* 📌 - ropfu: Category: Binary Exploitation  |  Event: picoCTF 2022 - **[292]**
 * 📌 - msfroggenerator2: Category: Web Exploitation  |  Event: picoCTF 2023 - **[360]**
 * 📌 - high frequency troubles: Category: Binary Exploitation  |  Event: picoCTF 2024 - **[441]**
 * 📌 - handoff: Category: Binary Exploitation  |  Event: picoCTF 2025 - **[486]**
 
-[282] noted  |  Category: Web Exploitation  |  Event: picoCTF 2022
-[204] notepad  |  Category: Web Exploitation  |  Event: picoMini by redpwn
-[219] riscy business  |  Category: Reverse Engineering  |  Event: picoMini by redpwn
-[292] ropfu  |  Category: Binary Exploitation  |  Event: picoCTF 2022
+
+
 [206] scrambled-bytes  |  Category: Forensics  |  Event: picoMini by redpwn
 [496] secure-email-service  |  Category: Web Exploitation  |  Event: picoCTF 2025
 [302] solfire  |  Category: Binary Exploitation  |  Event: picoCTF 2022
