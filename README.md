@@ -5,8 +5,8 @@ In this repo I'll share the code for my CTFs
 
 ### PicoCTF
 
-* [PicoCTF Challenge: 2Warm — A Step-by-Step Guide](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456)
-* [PicoCTF Challenge: Vault Door Training: Reverse Engineering with Java](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff)
+* [86 2warm  |  Category: General Skills  |  Event: picoCTF 2019](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456)
+* [7 vault-door-training  |  Category: Reverse Engineering  |  Event: picoCTF 2019](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff)
 * [PicoCTF Writeup: Warmed Up Challenge](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393)
 * [PicoCTF Writeup: Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a)
 * [PicoCTF Writeup: The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19)
@@ -124,12 +124,10 @@ In this repo I'll share the code for my CTFs
 * [482] n0s4n1ty 1  |  Category: Web Exploitation  |  Event: picoCTF 2025
 * [371] repetitions  |  Category: General Skills  |  Event: picoCTF 2023
 * [250] runme.py  |  Category: General Skills  |  Event: Beginner picoMini 2022
-* [7] vault-door-training  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 * [4] where are the robots  |  Category: Web Exploitation  |  Event: picoCTF 2019
 
 --- Difficulty 2 ---
 * [82] 1_wanna_b3_a_r0ck5tar  |  Category: General Skills  |  Event: picoCTF 2019
-* [86] 2warm  |  Category: General Skills  |  Event: picoCTF 2019
 * [484] 3v@l  |  Category: Web Exploitation  |  Event: picoCTF 2025
 * [76] AES-ABC  |  Category: Cryptography  |  Event: picoCTF 2019
 * [160] ARMssembly 0  |  Category: Reverse Engineering  |  Event: picoCTF 2021
