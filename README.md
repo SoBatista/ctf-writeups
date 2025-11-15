@@ -10,8 +10,11 @@ In this repo I'll share the code for my CTFs
 * 📌 [10] - vault-door-8  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 * 📌 [11] - droids0  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 * ✅ [12] - [vault-door-1](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-1-381afc732453): Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 [14] - droids1  |  Category: Reverse Engineering  |  Event: picoCTF 2019
+* 📌 [17] - droids4  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 * ✅ [18] - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019
 * ✅ [22] - [Lets Warm Up](https://medium.com/@sobatistacyber/picoctf-writeup-lets-warm-up-ef799cbd2541): Category: General Skills  |  Event: picoCTF 2019
+* 📌 [23] - droids3  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 * ✅ [30] - [shark on wire 1](https://medium.com/@sobatistacyber/picoctf-writeups-shark-on-wire-1-f7c0576dd312): Category: Forensics  |  Event: picoCTF 2019
 * ✅ [34] - [what's a net cat?](https://medium.com/@sobatistacyber/cracking-picoctfs-what-s-a-net-cat-challenge-1d7f39b3f445): Category: General Skills  |  Event: picoCTF 2019
 * ✅ [37] - [strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72): Category: General Skills  |  Event: picoCTF 2019
@@ -443,9 +446,6 @@ In this repo I'll share the code for my CTFs
 [212] college-rowing-team  |  Category: Cryptography  |  Event: picoMini by redpwn
 [207] corrupt-key-1  |  Category: Cryptography  |  Event: picoMini by redpwn
 [211] corrupt-key-2  |  Category: Cryptography  |  Event: picoMini by redpwn
-[14] droids1  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[23] droids3  |  Category: Reverse Engineering  |  Event: picoCTF 2019
-[17] droids4  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 [447] elements  |  Category: Web Exploitation  |  Event: picoCTF 2024
 [215] fermat-strings  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
 [184] filtered-shellcode  |  Category: Binary Exploitation  |  Event: picoCTF 2021
