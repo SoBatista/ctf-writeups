@@ -7,6 +7,7 @@ In this repo I'll share the code for my CTFs
 
 * [7] - [vault-door-training](https://medium.com/@sobatistacyber/picoctf-challenge-vault-door-training-reverse-engineering-with-java-6513cd1fe0ff): Category: Reverse Engineering  |  Event: picoCTF 2019
 * [10] - vault-door-8  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **TO DO**
+* [11] - droids0  |  Category: Reverse Engineering  |  Event: picoCTF 2019 - **TO DO**
 * [18] - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019
 * [44] - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019
 * [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019
@@ -454,7 +455,6 @@ In this repo I'll share the code for my CTFs
 [212] college-rowing-team  |  Category: Cryptography  |  Event: picoMini by redpwn
 [207] corrupt-key-1  |  Category: Cryptography  |  Event: picoMini by redpwn
 [211] corrupt-key-2  |  Category: Cryptography  |  Event: picoMini by redpwn
-[11] droids0  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 [14] droids1  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 [23] droids3  |  Category: Reverse Engineering  |  Event: picoCTF 2019
 [17] droids4  |  Category: Reverse Engineering  |  Event: picoCTF 2019
@@ -480,7 +480,6 @@ In this repo I'll share the code for my CTFs
 [306] stack cache  |  Category: Binary Exploitation  |  Event: picoCTF 2022
 [380] tic-tac  |  Category: Binary Exploitation  |  Event: picoCTF 2023
 [209] triple-secure  |  Category: Cryptography  |  Event: picoMini by redpwn
-* 
 * [218] vr-school  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
 * [317] wine  |  Category: Binary Exploitation  |  Event: picoCTF 2022
 
