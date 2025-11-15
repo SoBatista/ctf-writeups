@@ -14,7 +14,7 @@ In this repo I'll share the code for my CTFs
 - [x] [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019 ✅
 - [x] [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 ✅
-- [x] [PicoCTF Writeup: Easy1 Challenge](https://medium.com/@sobatistacyber/picoctf-writeup-easy1-challenge-67b9eac0fb90)
+- [x] [43] - [Easy1](https://medium.com/@sobatistacyber/picoctf-writeup-easy1-challenge-67b9eac0fb90): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [PicoCTF Writeups: strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72)
 - [x] [Cracking PicoCTF’s “Where are the Robots?”](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1)
 - [x] [Cracking PicoCTF’s “What’s a Net Cat?” Challenge](https://medium.com/@sobatistacyber/cracking-picoctfs-what-s-a-net-cat-challenge-1d7f39b3f445)
@@ -164,7 +164,6 @@ In this repo I'll share the code for my CTFs
 * [113] Disk, disk, sleuth!  |  Category: Forensics  |  Event: picoCTF 2021
 * [137] Disk, disk, sleuth! II  |  Category: Forensics  |  Event: picoCTF 2021
 * [125] Easy Peasy  |  Category: Cryptography  |  Event: picoCTF 2021
-* [43] Easy1  |  Category: Cryptography  |  Event: picoCTF 2019
 * [264] Eavesdrop  |  Category: Forensics  |  Event: picoCTF 2022
 * [485] Echo Valley  |  Category: Binary Exploitation  |  Event: picoCTF 2025
 * [265] Enhance!  |  Category: Forensics  |  Event: picoCTF 2022
