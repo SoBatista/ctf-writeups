@@ -15,8 +15,8 @@ In this repo I'll share the code for my CTFs
 - [x] [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019 ✅
 - [x] [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 ✅
-- [x] [PicoCTF Writeups: strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72)
-- [x] [Cracking PicoCTF’s “Where are the Robots?”](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1)
+- [x] [37] - [strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72): Category: General Skills  |  Event: picoCTF 2019 ✅
+- [x] [4] - [where are the robots](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1): Category: Web Exploitation  |  Event: picoCTF 2019 ✅
 - [x] [Cracking PicoCTF’s “What’s a Net Cat?” Challenge](https://medium.com/@sobatistacyber/cracking-picoctfs-what-s-a-net-cat-challenge-1d7f39b3f445)
 - [x] [PicoCTF Writeups: logon](https://medium.com/@sobatistacyber/picoctf-writeups-logon-ff6003102bc2)
 - [x] [PicoCTF Writeups: Bases](https://medium.com/@sobatistacyber/picoctf-writeups-bases-0bd7be0d42e9)
@@ -124,7 +124,6 @@ In this repo I'll share the code for my CTFs
 * [482] n0s4n1ty 1  |  Category: Web Exploitation  |  Event: picoCTF 2025
 * [371] repetitions  |  Category: General Skills  |  Event: picoCTF 2023
 * [250] runme.py  |  Category: General Skills  |  Event: Beginner picoMini 2022
-* [4] where are the robots  |  Category: Web Exploitation  |  Event: picoCTF 2019
 
 --- Difficulty 2 ---
 * [82] 1_wanna_b3_a_r0ck5tar  |  Category: General Skills  |  Event: picoCTF 2019
@@ -360,7 +359,6 @@ In this repo I'll share the code for my CTFs
 [55] sice_cream  |  Category: Binary Exploitation  |  Event: picoCTF 2019
 [116] speeds and feeds  |  Category: Reverse Engineering  |  Event: picoCTF 2021
 [210] spelling-quiz  |  Category: Cryptography  |  Event: picoMini by redpwn
-[37] strings it  |  Category: General Skills  |  Event: picoCTF 2019
 [307] substitution0  |  Category: Cryptography  |  Event: picoCTF 2022
 [308] substitution1  |  Category: Cryptography  |  Event: picoCTF 2022
 [309] substitution2  |  Category: Cryptography  |  Event: picoCTF 2022
