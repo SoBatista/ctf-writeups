@@ -9,8 +9,8 @@ In this repo I'll share the code for my CTFs
 * [18] - [Insp3ct0r](https://medium.com/@sobatistacyber/picoctf-writeup-insp3ct0r-1f978334290a): Category: Web Exploitation  |  Event: picoCTF 2019
 * [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019
 * [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019
-* [PicoCTF Writeup: The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19)
-* [PicoCTF Writeup: Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba)
+* [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019
+* [44] - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019
 * [PicoCTF Writeup: Let’s Warm Up](https://medium.com/@sobatistacyber/picoctf-writeup-lets-warm-up-ef799cbd2541)
 * [PicoCTF Writeup: Easy1 Challenge](https://medium.com/@sobatistacyber/picoctf-writeup-easy1-challenge-67b9eac0fb90)
 * [PicoCTF Writeups: strings it](https://medium.com/@sobatistacyber/picoctf-writeups-strings-it-0e77401efb72)
@@ -180,7 +180,6 @@ In this repo I'll share the code for my CTFs
 * [396] GDB baby step 2  |  Category: Reverse Engineering  |  Event: No Event
 * [397] GDB baby step 3  |  Category: Reverse Engineering  |  Event: No Event
 * [398] GDB baby step 4  |  Category: Reverse Engineering  |  Event: No Event
-* [44] Glory of the Garden  |  Category: Forensics  |  Event: picoCTF 2019
 * [473] Guess My Cheese (Part 1)  |  Category: Cryptography  |  Event: picoCTF 2025
 * [474] Guess My Cheese (Part 2)  |  Category: Cryptography  |  Event: picoCTF 2025
 * [90] Guessing Game 1  |  Category: Binary Exploitation  |  Event: picoCTF 2020 Mini-Competition
@@ -269,7 +268,6 @@ In this repo I'll share the code for my CTFs
 [180] Super Serial  |  Category: Web Exploitation  |  Event: picoCTF 2021
 [466] Tap into Hash  |  Category: Reverse Engineering  |  Event: picoCTF 2025
 [21] Tapping  |  Category: Cryptography  |  Event: picoCTF 2019
-[68] The Numbers  |  Category: Cryptography  |  Event: picoCTF 2019
 [311] Torrent Analyze  |  Category: Forensics  |  Event: picoCTF 2022
 [445] Trickster  |  Category: Web Exploitation  |  Event: picoCTF 2024
 [103] Trivial Flag Transfer Protocol  |  Category: Forensics  |  Event: picoCTF 2021
