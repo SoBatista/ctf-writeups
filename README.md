@@ -17,10 +17,10 @@ In this repo I'll share the code for my CTFs
 - [x] [44] - [Glory of the Garden](https://medium.com/@sobatistacyber/picoctf-writeup-glory-of-the-garden-6e0e23173eba): Category: Forensics  |  Event: picoCTF 2019 ✅
 - [x] [46] - [logon](https://medium.com/@sobatistacyber/picoctf-writeups-logon-ff6003102bc2): Category: Web Exploitation  |  Event: picoCTF 2019 ✅
 - [x] [58] - [Warmed Up](https://medium.com/@sobatistacyber/picoctf-writeup-warmed-up-challenge-1748875b7393): Category: General Skills  |  Event: picoCTF 2019 ✅
+- [x] [67] - [Bases](https://medium.com/@sobatistacyber/picoctf-writeups-bases-0bd7be0d42e9): Category: General Skills  |  Event: picoCTF 2019 ✅
 - [x] [68] - [The Numbers](https://medium.com/@sobatistacyber/picoctf-writeup-the-numbers-845b15226a19): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [86] - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 ✅
-- [x] [67] - [Bases](https://medium.com/@sobatistacyber/picoctf-writeups-bases-0bd7be0d42e9): Category: General Skills  |  Event: picoCTF 2019 ✅
-- [x] [PicoCTF Writeups: Caesar](https://medium.com/@sobatistacyber/picoctf-writeups-caesar-63fc4fe2cc16)
+- [x] [64] - [caesar](https://medium.com/@sobatistacyber/picoctf-writeups-caesar-63fc4fe2cc16): Category: Cryptography  |  Event: picoCTF 2019 ✅
 - [x] [PicoCTF Writeups: vault-door-1](https://medium.com/@sobatistacyber/picoctf-writeups-vault-door-1-381afc732453)
 * [PicoCTF Writeups: What Lies Within](https://medium.com/@sobatistacyber/picoctf-writeups-what-lies-within-317ae7bc5aa6)
 * [PicoCTF Writeups: Shark on Wire 1](https://medium.com/@sobatistacyber/picoctf-writeups-shark-on-wire-1-f7c0576dd312)
@@ -303,7 +303,6 @@ In this repo I'll share the code for my CTFs
 [518] byp4ss3d  |  Category: Web Exploitation  |  Event: picoMini by CMU-Africa
 [53] c0rrupt  |  Category: Forensics  |  Event: picoCTF 2019
 [202] caas  |  Category: Web Exploitation  |  Event: picoMini by redpwn
-[64] caesar  |  Category: Cryptography  |  Event: picoCTF 2019
 [347] chrono  |  Category: General Skills  |  Event: picoCTF 2023
 [216] clutter-overflow  |  Category: Binary Exploitation  |  Event: picoMini by redpwn
 [175] crackme-py  |  Category: Reverse Engineering  |  Event: picoCTF 2021
