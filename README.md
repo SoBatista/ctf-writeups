@@ -3,7 +3,7 @@ In this repo I'll share the code for my CTFs
 
 ## Solved CTFs with writeup
 
-### PicoCTF
+### PicoCTF (47/431 - 10.9% solved with writeup)
 
 * 📌 - b00tl3gRSA2: Category: Cryptography  |  Event: picoCTF 2019 - **[2]**
 * ✅ - [la cifra de](https://medium.com/@sobatistacyber/picoctf-writeup-la-cifra-de-e5b2822bd593): Category: Cryptography  |  Event: picoCTF 2019 - **[3]**
@@ -50,11 +50,12 @@ In this repo I'll share the code for my CTFs
 * ✅ - [2warm](https://medium.com/@sobatistacyber/picoctf-challenge-2warm-a-step-by-step-guide-f6acbc2d9456): Category: General Skills  |  Event: picoCTF 2019 - **[86]**
 * ✅ - [Pitter, Patter, Platters](https://medium.com/@sobatistacyber/picoctf-writeups-pitter-patter-platters-83283dded072): Category: Forensics  |  Event: picoCTF 2020 Mini-Competition - **[87]**
 * ✅ - [First Grep](https://medium.com/@sobatistacyber/picoctf-writeups-first-grep-0b5ca8d8fe09): Category: General Skills  |  Event: picoCTF 2019 - **[85]**
-* ✅ - [Web Gauntlet](https://medium.com/@sobatistacyber/picoctf-writeup-web-gauntlet-7c3b8c7c7946): Category: Web Exploitation  |  Event: picoCTF 2020 Mini-Competition - **[88]**
-* ✅ - [Mod 26](https://medium.com/@sobatistacyber/picoctf-writeup-mod-26-af704fba7ebc): Category: Cryptography  |  Event: picoCTF 2021 - **[144]**
-* ✅ - [Obedient Cat](https://medium.com/@sobatistacyber/picoctf-writeup-obedient-cat-be832e34166c): Category: General Skills  |  Event: picoCTF 2021 - **[147]**
-* ✅ - [Nice netcat...](https://medium.com/@sobatistacyber/picoctf-writeup-nice-netcat-2d97351299a9): Category: General Skills  |  Event: picoCTF 2021 - **[156]**
-* 📌 - gogo: Category: Reverse Engineering  |  Event: picoCTF 2021 - **[171]**
+* ✅ - [Web Gauntlet](https://medium.com/@sobatistacyber/picoctf-writeup-web-gauntlet-7c3b8c7c7946): Category: Web Exploitation | Event: picoCTF 2020 Mini-Competition - **[88]**
+* ✅ - [Mod 26](https://medium.com/@sobatistacyber/picoctf-writeup-mod-26-af704fba7ebc): Category: Cryptography | Event: picoCTF 2021 - **[144]**
+* ✅ - [Obedient Cat](https://medium.com/@sobatistacyber/picoctf-writeup-obedient-cat-be832e34166c): Category: General Skills | Event: picoCTF 2021 - **[147]**
+* ✅ - [Nice netcat...](https://medium.com/@sobatistacyber/picoctf-writeup-nice-netcat-2d97351299a9): Category: General Skills | Event: picoCTF 2021 - **[156]**
+* 📌 - gogo: Category: Reverse Engineering | Event: picoCTF 2021 - **[171]**
+* ✅ - [information](https://medium.com/@sobatistacyber/picoctf-writeup-information-0f0ac53ccbf6): Category: Forensics | Event: picoCTF 2021 - **[186]**
 * 📌 - notepad: Category: Web Exploitation  |  Event: picoMini by redpwn - **[204]**
 * 📌 - scrambled-bytes: Category: Forensics  |  Event: picoMini by redpwn - **[206]**
 * 📌 - triple-secure: Category: Cryptography  |  Event: picoMini by redpwn - **[209]**
@@ -133,7 +134,6 @@ In this repo I'll share the code for my CTFs
 * 📌 - [475] hashcrack  |  Category: Cryptography  |  Event: picoCTF 2025
 * 📌 - [476] head-dump  |  Category: Web Exploitation  |  Event: picoCTF 2025
 * 📌 - [438] heap 0  |  Category: Binary Exploitation  |  Event: picoCTF 2024
-* 📌 - [186] information  |  Category: Forensics  |  Event: picoCTF 2021
 * 📌 - [418] interencdec  |  Category: Cryptography  |  Event: picoCTF 2024
 * 📌 - [482] n0s4n1ty 1  |  Category: Web Exploitation  |  Event: picoCTF 2025
 * 📌 - [371] repetitions  |  Category: General Skills  |  Event: picoCTF 2023
