@@ -442,4 +442,5 @@ In this repo I'll share the code for my CTFs
 
 ### HackTheBox
 * [HackTheBox Meow: from telnet to root access](https://medium.com/@sobatistacyber/hackthebox-meow-from-telnet-to-root-access-0bc025c4e94d)
+* [HackTheBox Fawn: ]()
 
