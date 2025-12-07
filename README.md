@@ -5,7 +5,7 @@ In this repo I'll share the code for my CTFs
 
 ### PicoCTF (47/431 - 10.9% solved with writeup)
 
-* 📌 - b00tl3gRSA2: Category: Cryptography  |  Event: picoCTF 2019 - **[2]**
+* ✅ - [b00tl3gRSA2](https://medium.com/@sobatistacyber/picoctf-writeup-b00tl3grsa2-2d08ae26ee21): Category: Cryptography | Event: picoCTF 2019 - **[2]**
 * ✅ - [la cifra de](https://medium.com/@sobatistacyber/picoctf-writeup-la-cifra-de-e5b2822bd593): Category: Cryptography  |  Event: picoCTF 2019 - **[3]**
 * ✅ - [where are the robots](https://medium.com/@sobatistacyber/cracking-picoctfs-where-are-the-robots-6babb7bd02a1): Category: Web Exploitation  |  Event: picoCTF 2019 - **[4]**
 * 📌 - asm4: Category: Reverse Engineering  |  Event: picoCTF 2019 - **[5]**
