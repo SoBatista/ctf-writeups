@@ -105,6 +105,13 @@ pip install pwntools
 
 ### Basic usage (local file)
 
+If you need help, you can run:
+
+```bash
+python3 full_script.py -h
+```
+
+To run the code, do:
 ```bash
 python3 full_script.py test.S
 ```
